@@ -1,0 +1,407 @@
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fruits</title>
+<meta name="description" content="&lt;p slot=&quot;description&quot;&gt;Energize your day (or night) with our vibrant mix of farm-fresh fruit.&lt;/p&gt;" />
+<meta name="keywords" content="" />
+<meta name="robots" content="" />
+
+<script type="text/plain" class="cmplazyload" data-cmp-vendor="s905">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W87GJKW');</script>
+
+<meta property="og:url" content="https://www.dole.com/en/produce/fruits" />
+<meta property="og:image" content="https://www.dole.com/-/media/project/dole/produce-images/headers/dole-produce-fruit-medley.png?rev=1416123f2d094cd1b7494365948214be&amp;hash=F89C9786C9A5F599A784D7753F82236C" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Dole" />
+<meta property="og:title" content="Fruits | Dole" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="&lt;p slot=&quot;description&quot;&gt;Energize your day (or night) with our vibrant mix of farm-fresh fruit.&lt;/p&gt;" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="https://www.dole.com/en/produce/fruits" />
+<meta name="twitter:title" content="Fruits | Dole" />
+<meta name="twitter:image" content="https://www.dole.com/-/media/project/dole/produce-images/headers/dole-produce-fruit-medley.png?rev=1416123f2d094cd1b7494365948214be&amp;hash=F89C9786C9A5F599A784D7753F82236C" />
+<meta name="twitter:site" content="@DoleTweets">
+<meta name="application-name" content="Dole" />
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="/-/media/project/dole/brand/favicon/favicon-32x32.png?h=32&amp;w=32&amp;rev=3f17adbe52ea4087b77b28248dff57b4&amp;hash=9E301EEC2E908E0E839BE04BFE7A104E" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/-/media/project/dole/brand/favicon/favicon-32x32.png?h=57&amp;w=57&amp;rev=3f17adbe52ea4087b77b28248dff57b4&amp;hash=9D12E3B4F123527762D555D8419AA1FC" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/-/media/project/dole/brand/favicon/favicon-32x32.png?h=72&amp;w=72&amp;rev=3f17adbe52ea4087b77b28248dff57b4&amp;hash=55487BAF1C1FD3317E9607ABCBE71AB3" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/-/media/project/dole/brand/favicon/favicon-32x32.png?h=114&amp;w=114&amp;rev=3f17adbe52ea4087b77b28248dff57b4&amp;hash=F86FC2EB303F446D8B65F25954E9A0FA" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/-/media/project/dole/brand/favicon/favicon-32x32.png?h=120&amp;w=120&amp;rev=3f17adbe52ea4087b77b28248dff57b4&amp;hash=3D4D35093A1CCCC6A58B75A3C0011EDE" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/-/media/project/dole/brand/favicon/favicon-32x32.png?h=144&amp;w=144&amp;rev=3f17adbe52ea4087b77b28248dff57b4&amp;hash=11524C4107A19410A21B4A46392175F3" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/-/media/project/dole/brand/favicon/favicon-32x32.png?h=152&amp;w=152&amp;rev=3f17adbe52ea4087b77b28248dff57b4&amp;hash=8358A037A0D35D2F09840246E91E6314" />
+<link rel="icon" type="image/png" sizes="32x32" href="/-/media/project/dole/brand/favicon/favicon-32x32.png?h=32&amp;w=32&amp;rev=3f17adbe52ea4087b77b28248dff57b4&amp;hash=9E301EEC2E908E0E839BE04BFE7A104E" />
+<link rel="icon" type="image/png" sizes="16x16" href="/-/media/project/dole/brand/favicon/favicon-32x32.png?h=16&amp;w=16&amp;rev=3f17adbe52ea4087b77b28248dff57b4&amp;hash=FA2AC66E9844936932AD0AC9F85C8931" />
+<link rel="canonical" href="https://www.dole.com/en/produce/fruits" />
+<link rel="alternate" hreflang="cs-CZ" href="https://www.dole.com/cs-cz/produce/fruits" />
+<link rel="alternate" hreflang="es-ES" href="https://www.dole.com/es-es/produce/fruits" />
+<link rel="alternate" hreflang="de-DE" href="https://www.dole.com/de-de/produce/fruits" />
+<link rel="alternate" hreflang="en-CA" href="https://www.dole.com/en-ca/produce/fruits" />
+<link rel="alternate" hreflang="it-IT" href="https://www.dole.com/it-it/produce/fruits" />
+<link rel="alternate" hreflang="en-GB" href="https://www.dole.com/en-gb/produce/fruits" />
+<link rel="alternate" hreflang="ru-RU" href="https://www.dole.com/ru-ru/produce/fruits" />
+<link rel="alternate" hreflang="fr-FR" href="https://www.dole.com/fr-fr/produce/fruits" />
+<link rel="alternate" hreflang="nl-NL" href="https://www.dole.com/nl-nl/produce/fruits" />
+<link rel="alternate" hreflang="el-GR" href="https://www.dole.com/el-gr/produce/fruits" />
+<link rel="alternate" hreflang="en" href="https://www.dole.com/en/produce/fruits" />
+<link rel="preconnect" href="https://fonts.gstatic.com/" />
+<link rel="dns-prefetch" href="https://fonts.gstatic.com/" />
+<style>
+  :not(:defined) {
+    display: none;
+  }
+</style>
+<link rel="stylesheet" href="/static/front/styles.42386bf797fb5d4626be.css">
+<link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i&display=swap" rel="stylesheet" />
+<script id="dole-farm-search-config" type="application/json">
+  {"endpoint":"https://www.dole.com/api/farms?lang=en","l10n":{"placeholder":"Farm Code","submit":"Submit","validationErrorEmptyInput":"Please enter a farm code","validationErrorNoResults":"That code doesn't match any farm"}}
+</script>
+<meta name="VIcurrentDateTime" content="637790019745424104" />
+<script type="text/plain" class="cmplazyload" data-cmp-vendor="c10354" data-cmp-src="/layouts/system/VisitorIdentification.js"></script>
+</head>
+<body>
+<link rel="stylesheet" href="https://cdn.consentmanager.mgr.consensu.org/delivery/cmp.min.css" />
+<script>
+      window.gdprAppliesGlobally = true; if (!("cmp_id" in window)) { window.cmp_id = 22177 } if (!("cmp_params" in window)) { window.cmp_params = "" } window.cmp_host = "consentmanager.mgr.consensu.org"; window.cmp_cdn = "cdn.consentmanager.mgr.consensu.org"; function cmp_getlang(j) { if (typeof (j) != "boolean") { j = true } if (j && typeof (cmp_getlang.usedlang) == "string" && cmp_getlang.usedlang !== "") { return cmp_getlang.usedlang } var g = window.cmp_getsupportedLangs(); var c = []; var f = location.hash; var e = location.search; var a = "languages" in navigator ? navigator.languages : []; if (f.indexOf("cmplang=") != -1) { c.push(f.substr(f.indexOf("cmplang=") + 8, 2)) } else { if (e.indexOf("cmplang=") != -1) { c.push(e.substr(e.indexOf("cmplang=") + 8, 2)) } else { if ("cmp_setlang" in window && window.cmp_setlang != "") { c.push(window.cmp_setlang.toUpperCase()) } else { if (a.length > 0) { for (var d = 0; d < a.length; d++) { c.push(a[d]) } } } } } if ("language" in navigator) { c.push(navigator.language) } if ("userLanguage" in navigator) { c.push(navigator.userLanguage) } var h = ""; for (var d = 0; d < c.length; d++) { var b = c[d].toUpperCase(); if (b.indexOf("-") != -1) { b = b.substr(0, 2) } if (g.indexOf(b) != -1) { h = b; break } } if (h == "" && typeof (cmp_getlang.defaultlang) == "string" && cmp_getlang.defaultlang !== "") { return cmp_getlang.defaultlang } else { if (h == "") { h = "EN" } } h = h.toUpperCase(); return h } window.cmp_getsupportedLangs = function () { return ["DE", "EN", "FR", "IT", "NO", "DA", "FI", "ES", "PT", "RO", "BG", "ET", "EL", "GA", "HR", "LV", "LT", "MT", "NL", "PL", "SV", "SK", "SL", "CS", "HU", "RU", "SR", "ZH", "TR", "UK", "AR", "BS"] }; window.cmp_getRTLLangs = function () { return ["AR"] }; (function () { var a = ""; var d = "_en"; if ("cmp_getlang" in window) { a = window.cmp_getlang().toLowerCase(); d = "_" + a } var c = ("cmp_proto" in window) ? window.cmp_proto : "https:"; var e = ("cmp_ref" in window) ? window.cmp_ref : location.href; var b = document.createElement("script"); b.setAttribute("data-cmp-ab", "1"); b.src = c + "//" + window.cmp_host + "/delivery/cmp.php?id=" + window.cmp_id + "&h=" + encodeURIComponent(e) + "&" + window.cmp_params + (document.cookie.length > 0 ? "&__cmpfcc=1" : "") + "&l=" + a + "&o=" + (new Date()).getTime(); b.type = "text/javascript"; b.async = true; if (document.body) { document.body.appendChild(b) } else { if (document.currentScript) { document.currentScript.parentElement.appendChild(b) } else { document.write(b.outerHTML) } } var b = document.createElement("script"); b.src = c + "//" + window.cmp_cdn + "/delivery/cmp" + d + ".min.js"; b.type = "text/javascript"; b.setAttribute("data-cmp-ab", "1"); b.async = true; if (document.body) { document.body.appendChild(b) } else { if (document.currentScript) { document.currentScript.parentElement.appendChild(b) } else { document.write(b.outerHTML) } } window.cmp_addFrame = function (g) { if (!window.frames[g]) { if (document.body) { var f = document.createElement("iframe"); f.style.cssText = "display:none"; f.name = g; document.body.appendChild(f) } else { window.setTimeout('window.cmp_addFrame("' + g + '")', 10) } } }; window.cmp_rc = function (m) { var f = document.cookie; var k = ""; var h = 0; while (f != "" && h < 100) { h++; while (f.substr(0, 1) == " ") { f = f.substr(1, f.length) } var l = f.substring(0, f.indexOf("=")); if (f.indexOf(";") != -1) { var g = f.substring(f.indexOf("=") + 1, f.indexOf(";")) } else { var g = f.substr(f.indexOf("=") + 1, f.length) } if (m == l) { k = g } var j = f.indexOf(";") + 1; if (j == 0) { j = f.length } f = f.substring(j, f.length) } return (k) }; window.cmp_stub = function () { var f = arguments; __cmapi.a = __cmapi.a || []; if (!f.length) { return __cmapi.a } else { if (f[0] === "ping") { if (f[1] === 2) { f[2]({ gdprApplies: gdprAppliesGlobally, cmpLoaded: false, cmpStatus: "stub", displayStatus: "hidden", apiVersion: "2.0", cmpId: 31 }, true) } else { f[2]({ gdprAppliesGlobally: gdprAppliesGlobally, cmpLoaded: false }, true) } } else { if (f[0] === "getUSPData") { f[2]({ version: 1, uspString: window.cmp_rc("") }, true) } else { if (f[0] === "getTCData") { __cmapi.a.push([].slice.apply(f)) } else { if (f[0] === "addEventListener" || f[0] === "removeEventListener") { __cmapi.a.push([].slice.apply(f)) } else { if (f.length == 4 && f[3] === false) { f[2]({}, false) } else { __cmapi.a.push([].slice.apply(f)) } } } } } } }; window.cmp_msghandler = function (j) { var f = typeof j.data === "string"; try { var h = f ? JSON.parse(j.data) : j.data } catch (k) { var h = null } if (typeof (h) === "object" && h !== null && "__cmpCall" in h) { var g = h.__cmpCall; window.__cmp(g.command, g.parameter, function (m, l) { var i = { __cmpReturn: { returnValue: m, success: l, callId: g.callId } }; j.source.postMessage(f ? JSON.stringify(i) : i, "*") }) } if (typeof (h) === "object" && h !== null && "__cmapiCall" in h) { var g = h.__cmapiCall; window.__cmapi(g.command, g.parameter, function (m, l) { var i = { __cmapiReturn: { returnValue: m, success: l, callId: g.callId } }; j.source.postMessage(f ? JSON.stringify(i) : i, "*") }) } if (typeof (h) === "object" && h !== null && "__uspapiCall" in h) { var g = h.__uspapiCall; window.__uspapi(g.command, g.version, function (m, l) { var i = { __uspapiReturn: { returnValue: m, success: l, callId: g.callId } }; j.source.postMessage(f ? JSON.stringify(i) : i, "*") }) } if (typeof (h) === "object" && h !== null && "__tcfapiCall" in h) { var g = h.__tcfapiCall; window.__tcfapi(g.command, g.version, function (m, l) { var i = { __tcfapiReturn: { returnValue: m, success: l, callId: g.callId } }; j.source.postMessage(f ? JSON.stringify(i) : i, "*") }, g.parameter) } }; window.cmp_setStub = function (f) { if (!(f in window) || (typeof (window[f]) !== "function" && typeof (window[f]) !== "object" && (typeof (window[f]) === "undefined" || window[f] !== null))) { window[f] = window.cmp_stub; window[f].msgHandler = window.cmp_msghandler; if (window.addEventListener) { window.addEventListener("message", window.cmp_msghandler, false) } else { window.attachEvent("onmessage", window.cmp_msghandler) } } }; window.cmp_addFrame("__cmapiLocator"); window.cmp_addFrame("__cmpLocator"); window.cmp_addFrame("__uspapiLocator"); window.cmp_addFrame("__tcfapiLocator"); window.cmp_setStub("__cmapi"); window.cmp_setStub("__cmp"); window.cmp_setStub("__tcfapi"); window.cmp_setStub("__uspapi") })();
+    </script>
+<dole-navigation>
+<script type="application/json">
+      {"sections":[{"key":"produce","label":"Produce","href":"/en/produce","columns":[{"label":"Fruits","href":"/en/produce/fruits","items":[{"label":"Bananas","href":"/en/produce/fruits/bananas"},{"label":"Blueberries","href":"/en/produce/fruits/blueberries"},{"label":"Grapes","href":"/en/produce/fruits/grapes"},{"label":"Pineapple","href":"/en/produce/fruits/pineapple"}],"showSeeAll":true},{"label":"Fresh Vegetables ","href":"/en/produce/vegetables","items":[{"label":"Broccoli","href":"/en/produce/vegetables/broccoli"},{"label":"Butter Lettuce","href":"/en/produce/vegetables/butter-lettuce"},{"label":"Celery","href":"/en/produce/vegetables/celery"}],"showSeeAll":true},{"label":"Packaged Salads","href":"/en/produce/packaged-salads/salad-mixes","items":[{"label":"Salad Kits","href":"/en/produce/packaged-salads/salad-kits"},{"label":"Salad Mixes","href":"/en/produce/packaged-salads/salad-mixes"},{"label":"Ready-to-Eat","href":"/en/produce/packaged-salads/ready-to-eat"},{"label":"Meal Solutions","href":"/en/produce/packaged-salads/meal-solutions"}],"showSeeAll":true},{"label":"Organics","href":"/en/produce/organics","items":[{"label":"Organic Bananas","href":"/en/produce/organics/organic-bananas"},{"label":"Organic Brussels Sprouts","href":"/en/produce/organics/organic-brussels-sprouts"},{"label":"Organic Green Onions","href":"/en/produce/organics/organic-green-onions"},{"label":"Organic Romaine Hearts","href":"/en/produce/organics/organic-romaine-hearts"}],"showSeeAll":true}]},{"key":"recipes","label":"Recipes","href":"/en/recipes","columns":[{"label":"Courses","href":"/en/recipes/explore/courses/all","items":[{"label":"Desserts","href":"/en/recipes/explore/courses/desserts"},{"label":"Salads","href":"/en/recipes/explore/courses/salads"},{"label":"Sides","href":"/en/recipes/explore/courses/sides"},{"label":"Soups","href":"/en/recipes/explore/courses/soups"}],"showSeeAll":false},{"label":"Dietary and Health","href":"/en/recipes/explore/dietary-and-health/all","items":[{"label":"Gluten Free","href":"/en/recipes/explore/dietary-and-health/gluten-free"},{"label":"Low Sodium","href":"/en/recipes/explore/dietary-and-health/low-sodium"},{"label":"Low Fat","href":"/en/recipes/explore/dietary-and-health/low-fat"},{"label":"Vegan","href":"/en/recipes/explore/dietary-and-health/vegan"},{"label":"Vegetarian","href":"/en/recipes/explore/dietary-and-health/vegetarian"}],"showSeeAll":false},{"label":"Meals","href":"/en/recipes/explore/meals/all","items":[{"label":"Breakfast","href":"/en/recipes/explore/meals/breakfast"},{"label":"Lunch","href":"/en/recipes/explore/meals/lunch"},{"label":"Dinner","href":"/en/recipes/explore/meals/dinner"},{"label":"Snacks","href":"/en/recipes/explore/meals/snacks"}],"showSeeAll":false},{"label":"Seasonal","href":"/en/recipes/explore/seasonal/all","items":[{"label":"Fall ","href":"/en/recipes/explore/seasonal/fall"},{"label":"Summer","href":"/en/recipes/explore/seasonal/summer"},{"label":"Winter ","href":"/en/recipes/explore/seasonal/winter"},{"label":"Spring","href":"/en/recipes/explore/seasonal/spring"}],"showSeeAll":false}]},{"key":"sustainability","label":"Sustainability","href":"/en/farms","columns":[{"label":"Our Commitment - The Dole Way","href":"/en/farms/our-commitment---the-dole-way","items":[{"label":"Empowering Workers and Farmers","href":"/en/farms/empowering-workers-and-farmers"},{"label":"Enhancing Communities","href":"/en/farms/enhancing-communities"},{"label":"Protecting Our Environment","href":"/en/farms/protecting-our-environment"},{"label":"Improving Agriculture","href":"/en/farms/improving-agriculture"}],"showSeeAll":false},{"label":"Explore Our Farms","href":"/en/farms/explore-our-farms","items":[{"label":"Visit our farms","href":"https://farmtour.dole.com/en"},{"label":"Paraiso","href":"/en/farms/55002-paraiso"},{"label":"La Paz","href":"/en/farms/10112-la-paz"},{"label":"La Esperanza","href":"/en/farms/31188-la-esperanza"},{"label":"Cooperativa Agraria Pueblo Nuevo Huangala","href":"/en/farms/61512-cooperativa-agraria-pueblo-nuevo-huangala"}],"showSeeAll":true}]},{"key":"blog","label":"Blog","href":"/en/blog","columns":[{"label":"At Home Resources","href":"/en/at-home-resources","items":[],"showSeeAll":false},{"label":"Disney","href":"/en/disney","items":[],"showSeeAll":false},{"label":"Nutrition","href":"/en/blog/nutrition","items":[],"showSeeAll":false},{"label":"Healthy Living","href":"/en/blog/healthy-living","items":[],"showSeeAll":false},{"label":"Chef's Corner","href":"/en/blog/chefs-corner","items":[],"showSeeAll":false},{"label":"Nutrition Education & E-Cookbooks","href":"/en/nutrition-education-and-e-cookbooks","items":[],"showSeeAll":false}]}],"l10n":{"farmFinder":"Farm Finder","seeAll":"See all","toggleSearch":"Toggle search","search":"Search Dole.com","toggleNavigation":"Toggle navigation","closeNavigation":"Close navigation","skipNavigation":"Skip navigation"},"search":{"name":"q","method":"GET","action":"/en/search"},"logo":{"href":"/en","imageAlt":"Dole Fresh Foods Logo","imageSrc":"/-/media/project/dole/brand/logo/brand-dole-logo-128p.png?h=128&w=194&rev=3438ffd054da4bc7a90e3c52fcf8cdd1&hash=1251A826E8D317DC51803F8EEDB3D3DA"}}
+    </script>
+<img loading="lazy" slot="logo" alt="Dole Fresh Foods Logo" src="/-/media/project/dole/brand/logo/brand-dole-logo-128p.png?h=128&amp;w=194&amp;rev=3438ffd054da4bc7a90e3c52fcf8cdd1&amp;hash=1251A826E8D317DC51803F8EEDB3D3DA">
+<option slot="country" value="/change-locale/en/produce/fruits/">
+United States - English
+</option>
+<option slot="country" value="/change-locale/en-ca/produce/fruits/">
+Canada - English
+</option>
+<option slot="country" value="/change-locale/de-de/produce/fruits/">
+Germany - German
+</option>
+<option slot="country" value="/change-locale/it-it/produce/fruits/">
+Italy - Italian
+</option>
+<option slot="country" value="/change-locale/nl-nl/produce/fruits/">
+Netherlands - Dutch
+</option>
+<option slot="country" value="/change-locale/en-gb/produce/fruits/">
+United Kingdom - English
+</option>
+<dole-farm-search slot="farm-finder">
+<h2>
+Find Your Farm
+</h2>
+<p>
+All our fruit from the farm straight to your local supermarket. The farm code tells you which farm produced the fruit you are eating. Just enter the 3- or 5-digit code to find out where your fruit came from and learn about the country and the people who grew and picked it!
+</p>
+<img loading="lazy" slot="image" alt="Dole Banana Farmer" src="/-/media/project/dole/farm/farm-images/dole-sustainability-bananito-farmer-250p.jpg?h=165&amp;w=250&amp;rev=2e0c24588cc84af6ad68ee6c1c0031fc&amp;hash=668EB080642C1E1A33F1C18FA19DF543">
+</dole-farm-search>
+</dole-navigation>
+<main>
+<dole-wave-hero wave-color="">
+<h1 slot="title">
+Fruits
+</h1>
+<p slot="description">
+<p slot="description">Energize your day (or night) with our vibrant mix of farm-fresh fruit.</p>
+</p>
+<img slot="image" alt="Dole Fresh Fruit Produce" src="/-/media/project/dole/produce-images/headers/dole-produce-fruit-medley.png?h=540&amp;w=720&amp;rev=1416123f2d094cd1b7494365948214be&amp;hash=09AD8D65F7B13901453125B22EE62C00" srcset="/-/media/project/dole/produce-images/headers/dole-produce-fruit-medley.png?w=480&amp;rev=1416123f2d094cd1b7494365948214be&amp;hash=2DEEF2D937D7F9D402BCE42B9B4F184B 480w, /-/media/project/dole/produce-images/headers/dole-produce-fruit-medley.png?w=600&amp;rev=1416123f2d094cd1b7494365948214be&amp;hash=9A01E8B4FF186A69E774DC7300618DCE 600w, /-/media/project/dole/produce-images/headers/dole-produce-fruit-medley.png?w=960&amp;rev=1416123f2d094cd1b7494365948214be&amp;hash=0E693438F4F2B50A48B514A23F270FCE 960w, /-/media/project/dole/produce-images/headers/dole-produce-fruit-medley.png?w=1280&amp;rev=1416123f2d094cd1b7494365948214be&amp;hash=34E0BBCC1B86FD18B71BFCFAE519F29C 1280w, /-/media/project/dole/produce-images/headers/dole-produce-fruit-medley.png?w=1680&amp;rev=1416123f2d094cd1b7494365948214be&amp;hash=4C3F62D0BEE9472F055AD7A4E6389A84 1680w" loading="lazy" />
+</dole-wave-hero>
+<dole-card-wrapping-grid max-cols="3">
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Apple Cut-Up Fruit" src="/-/media/project/dole/produce-images/fruit/apples_cut_web.png?w=480&amp;rev=d90d9052a81f4790a2cf484fba2505fd&amp;hash=C05E46F2478745386CFA234395809777" srcset="/-/media/project/dole/produce-images/fruit/apples_cut_web.png?w=480&amp;rev=d90d9052a81f4790a2cf484fba2505fd&amp;hash=C05E46F2478745386CFA234395809777 480w, /-/media/project/dole/produce-images/fruit/apples_cut_web.png?w=600&amp;rev=d90d9052a81f4790a2cf484fba2505fd&amp;hash=5668BBD4BB4D8659B313FDD756252A02 600w, /-/media/project/dole/produce-images/fruit/apples_cut_web.png?w=960&amp;rev=d90d9052a81f4790a2cf484fba2505fd&amp;hash=F65ED1770361022B7779A61CEEE6995D 960w, /-/media/project/dole/produce-images/fruit/apples_cut_web.png?w=1280&amp;rev=d90d9052a81f4790a2cf484fba2505fd&amp;hash=4558965A420C3F2B09611D4A34E0B433 1280w, /-/media/project/dole/produce-images/fruit/apples_cut_web.png?w=1680&amp;rev=d90d9052a81f4790a2cf484fba2505fd&amp;hash=C36FC118FE26D97AA2056D4FE1F1CC1C 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/apples">Apples</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Apricots" src="/-/media/project/dole/produce-images/fruit/apricots_cut_web.png?w=480&amp;rev=eb05643162514b7e81a5ca37ceade2a2&amp;hash=89C67A99B5D64F88C76D395DCC4A75F9" srcset="/-/media/project/dole/produce-images/fruit/apricots_cut_web.png?w=480&amp;rev=eb05643162514b7e81a5ca37ceade2a2&amp;hash=89C67A99B5D64F88C76D395DCC4A75F9 480w, /-/media/project/dole/produce-images/fruit/apricots_cut_web.png?w=600&amp;rev=eb05643162514b7e81a5ca37ceade2a2&amp;hash=5CB7600DB60209E536F8EA1CB1B2EE4C 600w, /-/media/project/dole/produce-images/fruit/apricots_cut_web.png?w=960&amp;rev=eb05643162514b7e81a5ca37ceade2a2&amp;hash=55B4F1B8E79CA9B183ADB21596EE220A 960w, /-/media/project/dole/produce-images/fruit/apricots_cut_web.png?w=1280&amp;rev=eb05643162514b7e81a5ca37ceade2a2&amp;hash=73579D464BC867644CDEF4CA28FDDC00 1280w, /-/media/project/dole/produce-images/fruit/apricots_cut_web.png?w=1680&amp;rev=eb05643162514b7e81a5ca37ceade2a2&amp;hash=0C29E70B3F59006D8492A104F26673D9 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/apricots">Apricots</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Avocados" src="/-/media/project/dole/produce-images/fruit/avocados_cut_web.png?w=480&amp;rev=2971c92435354bd1921580e183aa1f41&amp;hash=913CC6A7D912D900335E705608A8D723" srcset="/-/media/project/dole/produce-images/fruit/avocados_cut_web.png?w=480&amp;rev=2971c92435354bd1921580e183aa1f41&amp;hash=913CC6A7D912D900335E705608A8D723 480w, /-/media/project/dole/produce-images/fruit/avocados_cut_web.png?w=600&amp;rev=2971c92435354bd1921580e183aa1f41&amp;hash=B7BDF8A1E1B82781C2F5A869B0F41927 600w, /-/media/project/dole/produce-images/fruit/avocados_cut_web.png?w=960&amp;rev=2971c92435354bd1921580e183aa1f41&amp;hash=DB4C4A690807AB0E710F2740098387E8 960w, /-/media/project/dole/produce-images/fruit/avocados_cut_web.png?w=1280&amp;rev=2971c92435354bd1921580e183aa1f41&amp;hash=57B7C4E6F90BB822F55A3D541CC8CD47 1280w, /-/media/project/dole/produce-images/fruit/avocados_cut_web.png?w=1680&amp;rev=2971c92435354bd1921580e183aa1f41&amp;hash=EF8AED5D01637D84123292FFAEDACFD7 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/avocados">Avocados</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Baby Banana Fruit" src="/-/media/project/dole/produce-images/fruit/babies_cut_web.png?w=480&amp;rev=494ac92d27c14a63866323ed4e5c281e&amp;hash=8801A1238F87C571435A21034E8CF84D" srcset="/-/media/project/dole/produce-images/fruit/babies_cut_web.png?w=480&amp;rev=494ac92d27c14a63866323ed4e5c281e&amp;hash=8801A1238F87C571435A21034E8CF84D 480w, /-/media/project/dole/produce-images/fruit/babies_cut_web.png?w=600&amp;rev=494ac92d27c14a63866323ed4e5c281e&amp;hash=75538D04C0BED9CD1EB1A9076EFFE0D0 600w, /-/media/project/dole/produce-images/fruit/babies_cut_web.png?w=960&amp;rev=494ac92d27c14a63866323ed4e5c281e&amp;hash=1CBECDB6FDCCB12FF8C5277E404EE82C 960w, /-/media/project/dole/produce-images/fruit/babies_cut_web.png?w=1280&amp;rev=494ac92d27c14a63866323ed4e5c281e&amp;hash=057B2F00EA2DE4E6F034CE57AF7C5691 1280w, /-/media/project/dole/produce-images/fruit/babies_cut_web.png?w=1680&amp;rev=494ac92d27c14a63866323ed4e5c281e&amp;hash=3C5E6126953EBD43A907F889A618128A 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/baby-bananas">Baby Bananas</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Banana Cut-Up Fruit" src="/-/media/project/dole/produce-images/fruit/bannanas_cut_web.png?w=480&amp;rev=88341eb9513e413388557b71e4c19f82&amp;hash=7F1A7ED5A01C4E5C5D700FE03E620635" srcset="/-/media/project/dole/produce-images/fruit/bannanas_cut_web.png?w=480&amp;rev=88341eb9513e413388557b71e4c19f82&amp;hash=7F1A7ED5A01C4E5C5D700FE03E620635 480w, /-/media/project/dole/produce-images/fruit/bannanas_cut_web.png?w=600&amp;rev=88341eb9513e413388557b71e4c19f82&amp;hash=A7BFBBAE7AC198BE2F3D8BABE2F473C2 600w, /-/media/project/dole/produce-images/fruit/bannanas_cut_web.png?w=960&amp;rev=88341eb9513e413388557b71e4c19f82&amp;hash=6C3D15EFA0EA7EE23BBE6B6306B47CD7 960w, /-/media/project/dole/produce-images/fruit/bannanas_cut_web.png?w=1280&amp;rev=88341eb9513e413388557b71e4c19f82&amp;hash=C6A2B6EEE10EA64DF23E8BDCB420868C 1280w, /-/media/project/dole/produce-images/fruit/bannanas_cut_web.png?w=1680&amp;rev=88341eb9513e413388557b71e4c19f82&amp;hash=E78E71B57C50FEE090A69DB3F8480896 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/bananas">Bananas</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Blackberry Fruit" src="/-/media/project/dole/produce-images/fruit/blackberries_web.png?w=480&amp;rev=de3ffb20b99646fbafcfa977af6164eb&amp;hash=9CE0991E6817F80448C6D58A1EAA891D" srcset="/-/media/project/dole/produce-images/fruit/blackberries_web.png?w=480&amp;rev=de3ffb20b99646fbafcfa977af6164eb&amp;hash=9CE0991E6817F80448C6D58A1EAA891D 480w, /-/media/project/dole/produce-images/fruit/blackberries_web.png?w=600&amp;rev=de3ffb20b99646fbafcfa977af6164eb&amp;hash=689D5CDA5E223BA03F085A94E3E604C4 600w, /-/media/project/dole/produce-images/fruit/blackberries_web.png?w=960&amp;rev=de3ffb20b99646fbafcfa977af6164eb&amp;hash=54D6F1A3EE1819AA348782B8A3D27956 960w, /-/media/project/dole/produce-images/fruit/blackberries_web.png?w=1280&amp;rev=de3ffb20b99646fbafcfa977af6164eb&amp;hash=F67475618998EC95DE7F25A26212BAAB 1280w, /-/media/project/dole/produce-images/fruit/blackberries_web.png?w=1680&amp;rev=de3ffb20b99646fbafcfa977af6164eb&amp;hash=3F3238A6EB4A6AF84A85F67F293A18F5 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/blackberries">Blackberries</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Blueberry Fruit" src="/-/media/project/dole/produce-images/fruit/blueberries_web.png?w=480&amp;rev=509c50380f0849388ee2a87c11e943f5&amp;hash=2BDC69ADFBC7F9CC96C7A6728DBDF2AC" srcset="/-/media/project/dole/produce-images/fruit/blueberries_web.png?w=480&amp;rev=509c50380f0849388ee2a87c11e943f5&amp;hash=2BDC69ADFBC7F9CC96C7A6728DBDF2AC 480w, /-/media/project/dole/produce-images/fruit/blueberries_web.png?w=600&amp;rev=509c50380f0849388ee2a87c11e943f5&amp;hash=A342D2494D37F1180AC7C7343B1EBD18 600w, /-/media/project/dole/produce-images/fruit/blueberries_web.png?w=960&amp;rev=509c50380f0849388ee2a87c11e943f5&amp;hash=069FACDB29258D068A40379818247868 960w, /-/media/project/dole/produce-images/fruit/blueberries_web.png?w=1280&amp;rev=509c50380f0849388ee2a87c11e943f5&amp;hash=9A3D7A1D596BB96D3DE2834103172AEE 1280w, /-/media/project/dole/produce-images/fruit/blueberries_web.png?w=1680&amp;rev=509c50380f0849388ee2a87c11e943f5&amp;hash=F45707AD17143AADFF66FDE4392E3159 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/blueberries">Blueberries</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Banana Burros Fruit" src="/-/media/project/dole/produce-images/fruit/burros_cut_web.png?w=480&amp;rev=17e0c65d45364d7fbb8c8c999d41ed37&amp;hash=CA7311B44797D2CAFDCD727693614FF9" srcset="/-/media/project/dole/produce-images/fruit/burros_cut_web.png?w=480&amp;rev=17e0c65d45364d7fbb8c8c999d41ed37&amp;hash=CA7311B44797D2CAFDCD727693614FF9 480w, /-/media/project/dole/produce-images/fruit/burros_cut_web.png?w=600&amp;rev=17e0c65d45364d7fbb8c8c999d41ed37&amp;hash=11897F50EB65CB6169BD5B4D7CC7A757 600w, /-/media/project/dole/produce-images/fruit/burros_cut_web.png?w=960&amp;rev=17e0c65d45364d7fbb8c8c999d41ed37&amp;hash=55DA5CD539AAC0C2438DFA045EE87E6E 960w, /-/media/project/dole/produce-images/fruit/burros_cut_web.png?w=1280&amp;rev=17e0c65d45364d7fbb8c8c999d41ed37&amp;hash=72FB25413354688D8020B77FFF503A59 1280w, /-/media/project/dole/produce-images/fruit/burros_cut_web.png?w=1680&amp;rev=17e0c65d45364d7fbb8c8c999d41ed37&amp;hash=F5DBFA89FF91002F87F85663F3AAF1D3 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/burros">Burros</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Chayote" src="/-/media/project/dole/produce-images/fruit/chayote_cut_web.png?w=480&amp;rev=1a9b0c036cd24ebea8c90da0bb756405&amp;hash=F38249618F8FCD091EF4E4943B185039" srcset="/-/media/project/dole/produce-images/fruit/chayote_cut_web.png?w=480&amp;rev=1a9b0c036cd24ebea8c90da0bb756405&amp;hash=F38249618F8FCD091EF4E4943B185039 480w, /-/media/project/dole/produce-images/fruit/chayote_cut_web.png?w=600&amp;rev=1a9b0c036cd24ebea8c90da0bb756405&amp;hash=DBBBC752CF71FBB3391E0A70848E30DB 600w, /-/media/project/dole/produce-images/fruit/chayote_cut_web.png?w=960&amp;rev=1a9b0c036cd24ebea8c90da0bb756405&amp;hash=639E3869810F8030457B82CF8CC30B6B 960w, /-/media/project/dole/produce-images/fruit/chayote_cut_web.png?w=1280&amp;rev=1a9b0c036cd24ebea8c90da0bb756405&amp;hash=13408DBEEE75688687747BADD0487911 1280w, /-/media/project/dole/produce-images/fruit/chayote_cut_web.png?w=1680&amp;rev=1a9b0c036cd24ebea8c90da0bb756405&amp;hash=62BA3A331CA9381DF98B7233D24EF505 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/chayote">Chayote</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Cherries Fruit" src="/-/media/project/dole/produce-images/fruit/cherries.png?w=480&amp;rev=795cd80034184df4911bb7cefbe8521c&amp;hash=869642FCAFB4685224D854F1388B1A35" srcset="/-/media/project/dole/produce-images/fruit/cherries.png?w=480&amp;rev=795cd80034184df4911bb7cefbe8521c&amp;hash=869642FCAFB4685224D854F1388B1A35 480w, /-/media/project/dole/produce-images/fruit/cherries.png?w=600&amp;rev=795cd80034184df4911bb7cefbe8521c&amp;hash=BF25E11DBC75A733D3AA05A10470F811 600w, /-/media/project/dole/produce-images/fruit/cherries.png?w=960&amp;rev=795cd80034184df4911bb7cefbe8521c&amp;hash=2918630B012B3FB205EDDD1680901B56 960w, /-/media/project/dole/produce-images/fruit/cherries.png?w=1280&amp;rev=795cd80034184df4911bb7cefbe8521c&amp;hash=FF291314AF3604DEA4899A96602C7A3F 1280w, /-/media/project/dole/produce-images/fruit/cherries.png?w=1680&amp;rev=795cd80034184df4911bb7cefbe8521c&amp;hash=3F3C5DCC11ECC8B00CD36DA35BE79006 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/cherries">Cherries</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Coconuts" src="/-/media/project/dole/produce-images/fruit/coconuts_web.png?w=480&amp;rev=0abe7bcb38c048dab33e45e32a4c0154&amp;hash=DC05783D4BB2ED4A0339398AAD070FDF" srcset="/-/media/project/dole/produce-images/fruit/coconuts_web.png?w=480&amp;rev=0abe7bcb38c048dab33e45e32a4c0154&amp;hash=DC05783D4BB2ED4A0339398AAD070FDF 480w, /-/media/project/dole/produce-images/fruit/coconuts_web.png?w=600&amp;rev=0abe7bcb38c048dab33e45e32a4c0154&amp;hash=2DC6C890222DE61739979FB85C829403 600w, /-/media/project/dole/produce-images/fruit/coconuts_web.png?w=960&amp;rev=0abe7bcb38c048dab33e45e32a4c0154&amp;hash=99DF1F109A3425A8777B93BBBEBEB7F1 960w, /-/media/project/dole/produce-images/fruit/coconuts_web.png?w=1280&amp;rev=0abe7bcb38c048dab33e45e32a4c0154&amp;hash=E74289AAFBE3287B20EAF0BA47A3DCCB 1280w, /-/media/project/dole/produce-images/fruit/coconuts_web.png?w=1680&amp;rev=0abe7bcb38c048dab33e45e32a4c0154&amp;hash=3E48EF67CA71A54BC3585A734772C83B 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/coconuts">Coconuts</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Grapefruit Fruit" src="/-/media/project/dole/produce-images/fruit/grapefruits_cut_web.png?w=480&amp;rev=10c0867c53ff4cbdaa3d0b7b302c1bc6&amp;hash=3796C87D295B93EEB7E3C4FC1E4C6B7D" srcset="/-/media/project/dole/produce-images/fruit/grapefruits_cut_web.png?w=480&amp;rev=10c0867c53ff4cbdaa3d0b7b302c1bc6&amp;hash=3796C87D295B93EEB7E3C4FC1E4C6B7D 480w, /-/media/project/dole/produce-images/fruit/grapefruits_cut_web.png?w=600&amp;rev=10c0867c53ff4cbdaa3d0b7b302c1bc6&amp;hash=5D1E69178AF7DFCF7826DAF83F3024D2 600w, /-/media/project/dole/produce-images/fruit/grapefruits_cut_web.png?w=960&amp;rev=10c0867c53ff4cbdaa3d0b7b302c1bc6&amp;hash=AA532CCD6AC7C6F4ECC873E1F627F40B 960w, /-/media/project/dole/produce-images/fruit/grapefruits_cut_web.png?w=1280&amp;rev=10c0867c53ff4cbdaa3d0b7b302c1bc6&amp;hash=8768AF78D34C4CC8A1536CC72E1EE46E 1280w, /-/media/project/dole/produce-images/fruit/grapefruits_cut_web.png?w=1680&amp;rev=10c0867c53ff4cbdaa3d0b7b302c1bc6&amp;hash=4EB7253CCBDF58DC9282C6B907FF78AB 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/grapefruits">Grapefruits</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Grapes Fruit" src="/-/media/project/dole/produce-images/fruit/grapes_web.png?w=480&amp;rev=f0477eb188cb4f1ea07a564bb4da4e96&amp;hash=5A211C09F4BAC34DF79CEE08DF13D362" srcset="/-/media/project/dole/produce-images/fruit/grapes_web.png?w=480&amp;rev=f0477eb188cb4f1ea07a564bb4da4e96&amp;hash=5A211C09F4BAC34DF79CEE08DF13D362 480w, /-/media/project/dole/produce-images/fruit/grapes_web.png?w=600&amp;rev=f0477eb188cb4f1ea07a564bb4da4e96&amp;hash=FEBDD22FEFC7BA39070BEF7330A0E223 600w, /-/media/project/dole/produce-images/fruit/grapes_web.png?w=960&amp;rev=f0477eb188cb4f1ea07a564bb4da4e96&amp;hash=2F759561A92D315C19154CBEB8CF1F53 960w, /-/media/project/dole/produce-images/fruit/grapes_web.png?w=1280&amp;rev=f0477eb188cb4f1ea07a564bb4da4e96&amp;hash=F284773D9DEB4ECF1772BFDAF28968C6 1280w, /-/media/project/dole/produce-images/fruit/grapes_web.png?w=1680&amp;rev=f0477eb188cb4f1ea07a564bb4da4e96&amp;hash=CF5E015ABB1890CD5197B5732D9082A8 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/grapes">Grapes</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Kiwi Fruit" src="/-/media/project/dole/produce-images/fruit/kiwi_cut_web.png?w=480&amp;rev=3f6f290b193348dd9d0be9d8c47058a0&amp;hash=E22C011BA5BE77DDC7FE408DC563C8FC" srcset="/-/media/project/dole/produce-images/fruit/kiwi_cut_web.png?w=480&amp;rev=3f6f290b193348dd9d0be9d8c47058a0&amp;hash=E22C011BA5BE77DDC7FE408DC563C8FC 480w, /-/media/project/dole/produce-images/fruit/kiwi_cut_web.png?w=600&amp;rev=3f6f290b193348dd9d0be9d8c47058a0&amp;hash=2AB9954D1A20EFCEFBBA1B8B866117BD 600w, /-/media/project/dole/produce-images/fruit/kiwi_cut_web.png?w=960&amp;rev=3f6f290b193348dd9d0be9d8c47058a0&amp;hash=68A00866B12C7057A119AD08B62ACCE2 960w, /-/media/project/dole/produce-images/fruit/kiwi_cut_web.png?w=1280&amp;rev=3f6f290b193348dd9d0be9d8c47058a0&amp;hash=E68AE4F99DB9B7BE47FE0B01EBDC696D 1280w, /-/media/project/dole/produce-images/fruit/kiwi_cut_web.png?w=1680&amp;rev=3f6f290b193348dd9d0be9d8c47058a0&amp;hash=8B87900BC2F672B22AD6674A7FDFB889 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/kiwi">Kiwis</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Lemon Cut-Up Fruit" src="/-/media/project/dole/produce-images/fruit/lemon_cut_web.png?w=480&amp;rev=2e2e0b44ce744a4d93d56c04614ce6e9&amp;hash=F65B0B9E8A9A740BE661E290F58623CC" srcset="/-/media/project/dole/produce-images/fruit/lemon_cut_web.png?w=480&amp;rev=2e2e0b44ce744a4d93d56c04614ce6e9&amp;hash=F65B0B9E8A9A740BE661E290F58623CC 480w, /-/media/project/dole/produce-images/fruit/lemon_cut_web.png?w=600&amp;rev=2e2e0b44ce744a4d93d56c04614ce6e9&amp;hash=47F6E79D788F8D5C20D9E560A6A135E3 600w, /-/media/project/dole/produce-images/fruit/lemon_cut_web.png?w=960&amp;rev=2e2e0b44ce744a4d93d56c04614ce6e9&amp;hash=6DB1A654A60A5EA9B3E195791ECCA2E6 960w, /-/media/project/dole/produce-images/fruit/lemon_cut_web.png?w=1280&amp;rev=2e2e0b44ce744a4d93d56c04614ce6e9&amp;hash=2AFED8B30F4016DEEF94FD6762F025A4 1280w, /-/media/project/dole/produce-images/fruit/lemon_cut_web.png?w=1680&amp;rev=2e2e0b44ce744a4d93d56c04614ce6e9&amp;hash=88088D1BEBF678CC358393CCA78CFA6E 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/lemon">Lemon</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Lime Cut-Up Fruit" src="/-/media/project/dole/produce-images/fruit/lime_cut_web.png?w=480&amp;rev=16760fe3803548e0908496b9d44d6661&amp;hash=21A938BD865ADB975AF91808E2E3E6E5" srcset="/-/media/project/dole/produce-images/fruit/lime_cut_web.png?w=480&amp;rev=16760fe3803548e0908496b9d44d6661&amp;hash=21A938BD865ADB975AF91808E2E3E6E5 480w, /-/media/project/dole/produce-images/fruit/lime_cut_web.png?w=600&amp;rev=16760fe3803548e0908496b9d44d6661&amp;hash=B5D93041266684B9F592DA99C329F50B 600w, /-/media/project/dole/produce-images/fruit/lime_cut_web.png?w=960&amp;rev=16760fe3803548e0908496b9d44d6661&amp;hash=E72EBA7FA043D17A0F7425ECA7E7BE95 960w, /-/media/project/dole/produce-images/fruit/lime_cut_web.png?w=1280&amp;rev=16760fe3803548e0908496b9d44d6661&amp;hash=25CC672A2D7602C6822BE6362A4F3706 1280w, /-/media/project/dole/produce-images/fruit/lime_cut_web.png?w=1680&amp;rev=16760fe3803548e0908496b9d44d6661&amp;hash=06A6080DA3D1D5CAD0A58C8EB917BAD6 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/lime">Lime</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Lychees Fruit" src="/-/media/project/dole/produce-images/fruit/lychees.png?w=480&amp;rev=b8e38867914a4dbdaf1281a5577809aa&amp;hash=8E934DC80F7157334ED3C77140F8E628" srcset="/-/media/project/dole/produce-images/fruit/lychees.png?w=480&amp;rev=b8e38867914a4dbdaf1281a5577809aa&amp;hash=8E934DC80F7157334ED3C77140F8E628 480w, /-/media/project/dole/produce-images/fruit/lychees.png?w=600&amp;rev=b8e38867914a4dbdaf1281a5577809aa&amp;hash=C8717ACDA979EB2A72E55F353EAAE8E5 600w, /-/media/project/dole/produce-images/fruit/lychees.png?w=960&amp;rev=b8e38867914a4dbdaf1281a5577809aa&amp;hash=03DA8EFB90136181B76CA5B6469E8AD3 960w, /-/media/project/dole/produce-images/fruit/lychees.png?w=1280&amp;rev=b8e38867914a4dbdaf1281a5577809aa&amp;hash=62EE4C9441742DA733321D99FD38D521 1280w, /-/media/project/dole/produce-images/fruit/lychees.png?w=1680&amp;rev=b8e38867914a4dbdaf1281a5577809aa&amp;hash=57D8673192460D8725EFE3A096D7CC08 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/litchi">Litchi/Lychee</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Long Stem Strawberries" src="/-/media/project/dole/produce-images/fruit/11014-02_longstemstrawberry_1lb_mexico.png?w=480&amp;rev=57b7e337a2044634944bb384fedf7640&amp;hash=D281F253E45D7D6C4A3C7E0FEF3E7E40" srcset="/-/media/project/dole/produce-images/fruit/11014-02_longstemstrawberry_1lb_mexico.png?w=480&amp;rev=57b7e337a2044634944bb384fedf7640&amp;hash=D281F253E45D7D6C4A3C7E0FEF3E7E40 480w, /-/media/project/dole/produce-images/fruit/11014-02_longstemstrawberry_1lb_mexico.png?w=600&amp;rev=57b7e337a2044634944bb384fedf7640&amp;hash=1E1CCDA73121D15AD2470E09EE545011 600w, /-/media/project/dole/produce-images/fruit/11014-02_longstemstrawberry_1lb_mexico.png?w=960&amp;rev=57b7e337a2044634944bb384fedf7640&amp;hash=4E5314BE7CF1E7BD0B76F49452812A8D 960w, /-/media/project/dole/produce-images/fruit/11014-02_longstemstrawberry_1lb_mexico.png?w=1280&amp;rev=57b7e337a2044634944bb384fedf7640&amp;hash=C3E7F332436CFEC55A96BB926267A742 1280w, /-/media/project/dole/produce-images/fruit/11014-02_longstemstrawberry_1lb_mexico.png?w=1680&amp;rev=57b7e337a2044634944bb384fedf7640&amp;hash=526F6BC286340DCAA9E012D5AA548A69 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/long-stem-strawberries">Long Stem Strawberries</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Mandarins Clementines Fruit" src="/-/media/project/dole/produce-images/fruit/mandarins_clementines_cut_web.png?w=480&amp;rev=01c58043fe264e85a86271723db1185d&amp;hash=C3539301E70A3A67FCA6EE40D0F8832D" srcset="/-/media/project/dole/produce-images/fruit/mandarins_clementines_cut_web.png?w=480&amp;rev=01c58043fe264e85a86271723db1185d&amp;hash=C3539301E70A3A67FCA6EE40D0F8832D 480w, /-/media/project/dole/produce-images/fruit/mandarins_clementines_cut_web.png?w=600&amp;rev=01c58043fe264e85a86271723db1185d&amp;hash=3AA3E0AA11F403D7175F1D1D92717549 600w, /-/media/project/dole/produce-images/fruit/mandarins_clementines_cut_web.png?w=960&amp;rev=01c58043fe264e85a86271723db1185d&amp;hash=36BF15A392ABFDB684E0B46C73C3ADFF 960w, /-/media/project/dole/produce-images/fruit/mandarins_clementines_cut_web.png?w=1280&amp;rev=01c58043fe264e85a86271723db1185d&amp;hash=8C84126B59FDD480A6B7DA06850F4A97 1280w, /-/media/project/dole/produce-images/fruit/mandarins_clementines_cut_web.png?w=1680&amp;rev=01c58043fe264e85a86271723db1185d&amp;hash=5E5690E78BB8AD08D74FA2D8C2345D21 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/mandarinsclementines">Mandarins/Clementines</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Mango Cut-up Fruit" src="/-/media/project/dole/produce-images/fruit/mangos_cut_web.png?w=480&amp;rev=6442097cc8b24e47aea47572f876529f&amp;hash=3748436133EABD36C5E7F8B47863143C" srcset="/-/media/project/dole/produce-images/fruit/mangos_cut_web.png?w=480&amp;rev=6442097cc8b24e47aea47572f876529f&amp;hash=3748436133EABD36C5E7F8B47863143C 480w, /-/media/project/dole/produce-images/fruit/mangos_cut_web.png?w=600&amp;rev=6442097cc8b24e47aea47572f876529f&amp;hash=C043A82EE468BFAE19CBF12FF106F795 600w, /-/media/project/dole/produce-images/fruit/mangos_cut_web.png?w=960&amp;rev=6442097cc8b24e47aea47572f876529f&amp;hash=7502512A7AB489BDD945385743D76CB0 960w, /-/media/project/dole/produce-images/fruit/mangos_cut_web.png?w=1280&amp;rev=6442097cc8b24e47aea47572f876529f&amp;hash=DCDCFC542DB96DE4E5CFBADC16D297C1 1280w, /-/media/project/dole/produce-images/fruit/mangos_cut_web.png?w=1680&amp;rev=6442097cc8b24e47aea47572f876529f&amp;hash=C813D04DCCD976AB20C514B9F2931B6B 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/mango">Mangoes</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Manzanos Peeled Fruit" src="/-/media/project/dole/produce-images/fruit/manzanos_peeled_web.png?w=480&amp;rev=e82efcded16f4ab296744a7e6e4c0a02&amp;hash=97F8DF4488B497B73513D2652C0ADFF7" srcset="/-/media/project/dole/produce-images/fruit/manzanos_peeled_web.png?w=480&amp;rev=e82efcded16f4ab296744a7e6e4c0a02&amp;hash=97F8DF4488B497B73513D2652C0ADFF7 480w, /-/media/project/dole/produce-images/fruit/manzanos_peeled_web.png?w=600&amp;rev=e82efcded16f4ab296744a7e6e4c0a02&amp;hash=CB26345BBC9828683BA478DCCF67C7F6 600w, /-/media/project/dole/produce-images/fruit/manzanos_peeled_web.png?w=960&amp;rev=e82efcded16f4ab296744a7e6e4c0a02&amp;hash=DD39C64525CE12193FD0CE83A13FDA6B 960w, /-/media/project/dole/produce-images/fruit/manzanos_peeled_web.png?w=1280&amp;rev=e82efcded16f4ab296744a7e6e4c0a02&amp;hash=9D550C18D2BF1949F0582DBB39AC4CF7 1280w, /-/media/project/dole/produce-images/fruit/manzanos_peeled_web.png?w=1680&amp;rev=e82efcded16f4ab296744a7e6e4c0a02&amp;hash=984416EF299D679510233D5A84EF72C9 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/manzanos">Manzanos</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Oranges Cut-up Fruit" src="/-/media/project/dole/produce-images/fruit/oranges_cut_web.png?w=480&amp;rev=d823a39512de41088aa75493ff15abd0&amp;hash=FCD4C8BCDF274FB1BA02446B39CC94BD" srcset="/-/media/project/dole/produce-images/fruit/oranges_cut_web.png?w=480&amp;rev=d823a39512de41088aa75493ff15abd0&amp;hash=FCD4C8BCDF274FB1BA02446B39CC94BD 480w, /-/media/project/dole/produce-images/fruit/oranges_cut_web.png?w=600&amp;rev=d823a39512de41088aa75493ff15abd0&amp;hash=12E44C02C4DF2263A9CEC46A8CE1D78F 600w, /-/media/project/dole/produce-images/fruit/oranges_cut_web.png?w=960&amp;rev=d823a39512de41088aa75493ff15abd0&amp;hash=75E8DECDCD74C2AB06DE643BE93496A2 960w, /-/media/project/dole/produce-images/fruit/oranges_cut_web.png?w=1280&amp;rev=d823a39512de41088aa75493ff15abd0&amp;hash=1518180FEABEB132D2B2961220073BE8 1280w, /-/media/project/dole/produce-images/fruit/oranges_cut_web.png?w=1680&amp;rev=d823a39512de41088aa75493ff15abd0&amp;hash=1E09325A9C7D49C60983336BE0A1CFAD 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/oranges">Oranges</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Papaya Fruit " src="/-/media/project/dole/produce-images/fruit/papaya_cut_web.png?w=480&amp;rev=5faafecead904ebda2c3b54069e112ca&amp;hash=85BE6134AC13E6D1A35ADB8CAC26941B" srcset="/-/media/project/dole/produce-images/fruit/papaya_cut_web.png?w=480&amp;rev=5faafecead904ebda2c3b54069e112ca&amp;hash=85BE6134AC13E6D1A35ADB8CAC26941B 480w, /-/media/project/dole/produce-images/fruit/papaya_cut_web.png?w=600&amp;rev=5faafecead904ebda2c3b54069e112ca&amp;hash=1F0638852973311422C61662CB1E64F2 600w, /-/media/project/dole/produce-images/fruit/papaya_cut_web.png?w=960&amp;rev=5faafecead904ebda2c3b54069e112ca&amp;hash=0FAB561A406D5A0BACCE20D0FC18F072 960w, /-/media/project/dole/produce-images/fruit/papaya_cut_web.png?w=1280&amp;rev=5faafecead904ebda2c3b54069e112ca&amp;hash=F4AF417659E1803EB5B45B343BB28E79 1280w, /-/media/project/dole/produce-images/fruit/papaya_cut_web.png?w=1680&amp;rev=5faafecead904ebda2c3b54069e112ca&amp;hash=C0A46F9816B5F541E693A034CC50EC25 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/papaya">Papaya</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Peach Fruit" src="/-/media/project/dole/produce-images/fruit/peaches_cut_web.png?w=480&amp;rev=901f5c44de2f4117be3adb9c74f4bef1&amp;hash=E9B92F3BEB0327F7D8E0F37DDF9358A1" srcset="/-/media/project/dole/produce-images/fruit/peaches_cut_web.png?w=480&amp;rev=901f5c44de2f4117be3adb9c74f4bef1&amp;hash=E9B92F3BEB0327F7D8E0F37DDF9358A1 480w, /-/media/project/dole/produce-images/fruit/peaches_cut_web.png?w=600&amp;rev=901f5c44de2f4117be3adb9c74f4bef1&amp;hash=0A1A6889D4DC5ADFB49DC881524C52C2 600w, /-/media/project/dole/produce-images/fruit/peaches_cut_web.png?w=960&amp;rev=901f5c44de2f4117be3adb9c74f4bef1&amp;hash=2A0E7B8D2AFC7921A914A3745D495364 960w, /-/media/project/dole/produce-images/fruit/peaches_cut_web.png?w=1280&amp;rev=901f5c44de2f4117be3adb9c74f4bef1&amp;hash=46AAFF61BF4A860C4D3314976D8E91D6 1280w, /-/media/project/dole/produce-images/fruit/peaches_cut_web.png?w=1680&amp;rev=901f5c44de2f4117be3adb9c74f4bef1&amp;hash=BE6BCF8AD6FBEB8C705FDAF1DC1078F9 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/peaches-and-nectarinesstone-fruit">Peaches (and Nectarines/Stone Fruit)</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Pears" src="/-/media/project/dole/produce-images/fruit/pears_cut_web.png?w=480&amp;rev=b4bdc01dba22459b8f86d29af1a261f4&amp;hash=C74B3634AAB77E446DC173D2D1229FB2" srcset="/-/media/project/dole/produce-images/fruit/pears_cut_web.png?w=480&amp;rev=b4bdc01dba22459b8f86d29af1a261f4&amp;hash=C74B3634AAB77E446DC173D2D1229FB2 480w, /-/media/project/dole/produce-images/fruit/pears_cut_web.png?w=600&amp;rev=b4bdc01dba22459b8f86d29af1a261f4&amp;hash=312EDFD7956DB391D0818A4A1C68D39D 600w, /-/media/project/dole/produce-images/fruit/pears_cut_web.png?w=960&amp;rev=b4bdc01dba22459b8f86d29af1a261f4&amp;hash=B23836968C0935290733A4BFEA7F22D9 960w, /-/media/project/dole/produce-images/fruit/pears_cut_web.png?w=1280&amp;rev=b4bdc01dba22459b8f86d29af1a261f4&amp;hash=0D53F4A0743219A2FB512C44C209529F 1280w, /-/media/project/dole/produce-images/fruit/pears_cut_web.png?w=1680&amp;rev=b4bdc01dba22459b8f86d29af1a261f4&amp;hash=0FC60A25CD7CAE155B202CB9F7381236 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/pears">Pears</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Pineapple Cut-up Fruit " src="/-/media/project/dole/produce-images/fruit/pineapple_cut_web.png?w=480&amp;rev=7b07a669415341b486c4d98d1d0e3fef&amp;hash=68EEC2A6D7500A601C1F5E9C382B6CE2" srcset="/-/media/project/dole/produce-images/fruit/pineapple_cut_web.png?w=480&amp;rev=7b07a669415341b486c4d98d1d0e3fef&amp;hash=68EEC2A6D7500A601C1F5E9C382B6CE2 480w, /-/media/project/dole/produce-images/fruit/pineapple_cut_web.png?w=600&amp;rev=7b07a669415341b486c4d98d1d0e3fef&amp;hash=33F7EEA4CC5FC3E3B859FC73766BC94E 600w, /-/media/project/dole/produce-images/fruit/pineapple_cut_web.png?w=960&amp;rev=7b07a669415341b486c4d98d1d0e3fef&amp;hash=3C43D029C4E6EF134D70D01F012EBC56 960w, /-/media/project/dole/produce-images/fruit/pineapple_cut_web.png?w=1280&amp;rev=7b07a669415341b486c4d98d1d0e3fef&amp;hash=6920E93ADAFA835C5B1E2008B67D0859 1280w, /-/media/project/dole/produce-images/fruit/pineapple_cut_web.png?w=1680&amp;rev=7b07a669415341b486c4d98d1d0e3fef&amp;hash=A060EC834F8DB2F05F76E7ACC832B1DC 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/pineapple">Pineapple</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Plantain Cut-up Fruit" src="/-/media/project/dole/produce-images/fruit/plantain_cut_web.png?w=480&amp;rev=e9663fa4e38340278676a1a6d88d2d36&amp;hash=4AE045D19A36BCEBB1415A2A2E801215" srcset="/-/media/project/dole/produce-images/fruit/plantain_cut_web.png?w=480&amp;rev=e9663fa4e38340278676a1a6d88d2d36&amp;hash=4AE045D19A36BCEBB1415A2A2E801215 480w, /-/media/project/dole/produce-images/fruit/plantain_cut_web.png?w=600&amp;rev=e9663fa4e38340278676a1a6d88d2d36&amp;hash=9BC6D3FD283562AC79A5D0CFB70B4944 600w, /-/media/project/dole/produce-images/fruit/plantain_cut_web.png?w=960&amp;rev=e9663fa4e38340278676a1a6d88d2d36&amp;hash=BFF2B62BBF8FC2CCDE357D71F46AB3E6 960w, /-/media/project/dole/produce-images/fruit/plantain_cut_web.png?w=1280&amp;rev=e9663fa4e38340278676a1a6d88d2d36&amp;hash=344C2017B3AD5A3CD46468881131FBEC 1280w, /-/media/project/dole/produce-images/fruit/plantain_cut_web.png?w=1680&amp;rev=e9663fa4e38340278676a1a6d88d2d36&amp;hash=8098017489FB0944D5664313BEAAF1BD 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/plantains">Plantains</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Plum Cut-up Fruit " src="/-/media/project/dole/produce-images/fruit/plums_cut_web.png?w=480&amp;rev=1c5b376f9f41492898dd8e305bf0b332&amp;hash=F12B8E55A05AB90F3D24E40F9E8AEFAA" srcset="/-/media/project/dole/produce-images/fruit/plums_cut_web.png?w=480&amp;rev=1c5b376f9f41492898dd8e305bf0b332&amp;hash=F12B8E55A05AB90F3D24E40F9E8AEFAA 480w, /-/media/project/dole/produce-images/fruit/plums_cut_web.png?w=600&amp;rev=1c5b376f9f41492898dd8e305bf0b332&amp;hash=DFCE2EE9821B639D0912564F8C5196C9 600w, /-/media/project/dole/produce-images/fruit/plums_cut_web.png?w=960&amp;rev=1c5b376f9f41492898dd8e305bf0b332&amp;hash=4905CF5EB4C46A6983CA53DA0750E3E4 960w, /-/media/project/dole/produce-images/fruit/plums_cut_web.png?w=1280&amp;rev=1c5b376f9f41492898dd8e305bf0b332&amp;hash=98FAD2B79932BE76FE393ACA0487145D 1280w, /-/media/project/dole/produce-images/fruit/plums_cut_web.png?w=1680&amp;rev=1c5b376f9f41492898dd8e305bf0b332&amp;hash=A6DE9942BBC38E72E3D145C7EE0E95B5 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/plums">Plums</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Red raspberries" src="/-/media/project/dole/produce-images/fruit/red_raspberries_web.png?w=480&amp;rev=35fcbc1f247e4b8393a0360642bd0c84&amp;hash=B62AE1F1D7A6E247AD29D1AD14E1F0A9" srcset="/-/media/project/dole/produce-images/fruit/red_raspberries_web.png?w=480&amp;rev=35fcbc1f247e4b8393a0360642bd0c84&amp;hash=B62AE1F1D7A6E247AD29D1AD14E1F0A9 480w, /-/media/project/dole/produce-images/fruit/red_raspberries_web.png?w=600&amp;rev=35fcbc1f247e4b8393a0360642bd0c84&amp;hash=2B32E2D655B668493E47E5BC8E48EF59 600w, /-/media/project/dole/produce-images/fruit/red_raspberries_web.png?w=960&amp;rev=35fcbc1f247e4b8393a0360642bd0c84&amp;hash=A3AA13EFD6E94EE71CC96D9390605CD1 960w, /-/media/project/dole/produce-images/fruit/red_raspberries_web.png?w=1280&amp;rev=35fcbc1f247e4b8393a0360642bd0c84&amp;hash=A5242BA858A778F48DAE33B5A285280E 1280w, /-/media/project/dole/produce-images/fruit/red_raspberries_web.png?w=1680&amp;rev=35fcbc1f247e4b8393a0360642bd0c84&amp;hash=824D4E7B10745B6A710C3FA65F47DDDC 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/red-raspberries">Red raspberries</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Dole Red Bananas" src="/-/media/project/dole/produce-images/fruit/reds_cut_web.png?w=480&amp;rev=687db6c7059d4094b2bb1c925a5504a9&amp;hash=6FB3AB47D9EE942184B56A1E7F6CF0F3" srcset="/-/media/project/dole/produce-images/fruit/reds_cut_web.png?w=480&amp;rev=687db6c7059d4094b2bb1c925a5504a9&amp;hash=6FB3AB47D9EE942184B56A1E7F6CF0F3 480w, /-/media/project/dole/produce-images/fruit/reds_cut_web.png?w=600&amp;rev=687db6c7059d4094b2bb1c925a5504a9&amp;hash=9FC2E354C006AF40A4A201656A94F951 600w, /-/media/project/dole/produce-images/fruit/reds_cut_web.png?w=960&amp;rev=687db6c7059d4094b2bb1c925a5504a9&amp;hash=CD7FF8CE39508C27D8702DACC9146979 960w, /-/media/project/dole/produce-images/fruit/reds_cut_web.png?w=1280&amp;rev=687db6c7059d4094b2bb1c925a5504a9&amp;hash=0AEED322D817A300209ECBF93360D5C4 1280w, /-/media/project/dole/produce-images/fruit/reds_cut_web.png?w=1680&amp;rev=687db6c7059d4094b2bb1c925a5504a9&amp;hash=2E62ABEBBB10B7A86FEBAC95B20D0FC5 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/reds">Reds</dole-card-title>
+</dole-card>
+</dole-grid-item>
+<dole-grid-item role="listitem">
+<dole-card>
+<dole-card-img slot="image" contain alt="Strawberries" src="/-/media/project/dole/produce-images/fruit/strawberries_web.png?w=480&amp;rev=7fff9255366349428a2edc38fb69c1b6&amp;hash=42B8860510CD0700B4166D750014B8BF" srcset="/-/media/project/dole/produce-images/fruit/strawberries_web.png?w=480&amp;rev=7fff9255366349428a2edc38fb69c1b6&amp;hash=42B8860510CD0700B4166D750014B8BF 480w, /-/media/project/dole/produce-images/fruit/strawberries_web.png?w=600&amp;rev=7fff9255366349428a2edc38fb69c1b6&amp;hash=BD29F3994228D87A39E44ADB4EED6291 600w, /-/media/project/dole/produce-images/fruit/strawberries_web.png?w=960&amp;rev=7fff9255366349428a2edc38fb69c1b6&amp;hash=55CD8526B341D374714D413FC955FBCB 960w, /-/media/project/dole/produce-images/fruit/strawberries_web.png?w=1280&amp;rev=7fff9255366349428a2edc38fb69c1b6&amp;hash=94E734B0F2909009B45A67CD46075518 1280w, /-/media/project/dole/produce-images/fruit/strawberries_web.png?w=1680&amp;rev=7fff9255366349428a2edc38fb69c1b6&amp;hash=C98F6628CA41DCDF4E301CA4AAE4DF92 1680w"></dole-card-img>
+<dole-card-title href="/en/produce/fruits/strawberries">Strawberries</dole-card-title>
+</dole-card>
+</dole-grid-item>
+</dole-card-wrapping-grid>
+</main>
+<aside>
+<dole-back-to-top></dole-back-to-top>
+<script id="dole-newsletter-signup-config" type="application/json">
+  {"themes":{"apple":{"color":"hsl(341,100%,32%)","src":"/-/media/project/dole/newsletter-images/newsletter-signup-placeholder/newsletter-signup-apple.png?h=350&w=350&rev=669578cae0154d338decd25c33baa861&hash=58B001B2F34B5C2B87A85A169E526CD4"},"artichoke":{"color":"hsl(38,40%,54%)","src":"/-/media/project/dole/newsletter-images/newsletter-signup-placeholder/newsletter-signup-artichoke.png?h=350&w=350&rev=c6d7a33133fe4a22aa725685c335266d&hash=3B07931E8297E9719B449CAC1D996F06"},"banana":{"color":"hsl(51,100%,47%)","src":"/-/media/project/dole/newsletter-images/newsletter-signup-placeholder/newsletter-signup-banana.png?h=350&w=350&rev=c84ab03f8ac040bdb5d0333c5bc6fb94&hash=39E2E6873179663EDA6D0A7EF6914278"},"lettuce":{"color":"hsl(83,60%,67%)","src":"/-/media/project/dole/newsletter-images/newsletter-signup-placeholder/newsletter-signup-lettuce.png?h=350&w=350&rev=be54ad0b555c479b835eec9e3f061bfc&hash=37135814A7F07890E0A84F9D5016E105"},"orange":{"color":"hsl(38,100%,50%)","src":"/-/media/project/dole/newsletter-images/newsletter-signup-placeholder/newsletter-signup-orange.png?h=350&w=350&rev=6f441163da93406c9338e54780997a12&hash=06166E574ACAC392D55D05FB44A8B37C"}},"form":{"emailLabel":"Email address","emailPlaceholder":"Enter your email address","emailInvalidMessage":"Invalid email address.","firstNameLabel":"First name","firstNamePlaceholder":"First name","lastNameLabel":"Last name","lastNamePlaceholder":"Last name","zipLabel":"Zip code","zipPlaceholder":"Zip code","formRequestUrl":"/api/newsletter/subscribe/full","formDisclaimer":"By submitting your email, you agree to our <a href=\"/en/about-us/terms-of-use\">Terms and Conditions.</a>","formSubmitLabel":"Sign up now","formSubmissionErrorMessage":"Error submitting the form.","formSubmissionSuccessMessage":"Thanks! You've been subscribed to our mailing list."}}
+</script>
+<dole-newsletter-signup full>
+<h2>Get Our Newsletter </h2>
+<p>All our tastiest news sent to your inbox.</p>
+</dole-newsletter-signup>
+</aside>
+<dole-footer role="contentinfo">
+<dole-footer-column>
+<h2 slot="title">Company</h2>
+<dole-footer-item href="/en/about-us" target="" role="listitem">
+About
+</dole-footer-item>
+<dole-footer-item href="https://dolecareers.silkroad.com/dolecareers/EmploymentListings.html" target="_blank" role="listitem">
+Careers
+</dole-footer-item>
+<dole-footer-item href="/en/about-us/terms-of-use" target="" role="listitem">
+Terms of Use
+</dole-footer-item>
+<dole-footer-item href="/-/media/project/dole/company/code-of-conduct/codeofconductfinal27721.pdf?rev=eb3b69982be549bca34a53e4b32b5b92" target="_blank" role="listitem">
+Code of Conduct
+</dole-footer-item>
+<dole-footer-item href="/en/press" target="" role="listitem">
+Press Releases
+</dole-footer-item>
+<dole-footer-item href="/en/farms" target="" role="listitem">
+Sustainability
+</dole-footer-item>
+</dole-footer-column>
+<dole-footer-column>
+<h2 slot="title">Dole Family</h2>
+<dole-footer-item href="https://www.dolefruithawaii.com/" target="_blank" role="listitem">
+Dole Fruit Hawaii
+</dole-footer-item>
+<dole-footer-item href="https://dolesunshine.com" target="_blank" role="listitem">
+Dole Packaged Foods
+</dole-footer-item>
+<dole-footer-item href="http://www.doleoceancargo.com" target="_blank" role="listitem">
+Ocean Cargo
+</dole-footer-item>
+<dole-footer-item href="https://www.doleplantation.com" target="_blank" role="listitem">
+Pineapple Plantation
+</dole-footer-item>
+</dole-footer-column>
+<dole-footer-column>
+<h2 slot="title">Partners</h2>
+<dole-footer-item href="/en/about-us/dbcp-facts" target="" role="listitem">
+DBCP Facts
+</dole-footer-item>
+<dole-footer-item href="https://online.marsh.com/marshconnectpublic/marsh2/public/moi?client=337629671" target="_blank" role="listitem">
+Memorandum of Insurance
+</dole-footer-item>
+<dole-footer-item href="/en/about-us/transparency-in-supply-chain-management" target="" role="listitem">
+Transparency in Supply Chain Management
+</dole-footer-item>
+<dole-footer-item href="http://doleportal.force.com/truckerinfo" target="_blank" role="listitem">
+Truckers &amp; Customers Information Portal
+</dole-footer-item>
+</dole-footer-column>
+<dole-footer-column social-column="">
+<h2 slot="title">Connect</h2>
+<dole-footer-item title="Dole in Facebook" gtmId="" href="https://www.facebook.com/Dole" target="_blank" role="listitem">
+<dole-icon size="lg" name="facebook-square">Facebook</dole-icon>
+</dole-footer-item>
+<dole-footer-item title="Dole in Instagram" gtmId="" href="https://www.instagram.com/dolepics/?hl=en" target="_blank" role="listitem">
+<dole-icon size="lg" name="instagram">Instagram</dole-icon>
+</dole-footer-item>
+<dole-footer-item title="Dole in Pinterest" gtmId="" href="https://www.pinterest.com/DolePins/" target="_blank" role="listitem">
+<dole-icon size="lg" name="pinterest-square">Pinterest</dole-icon>
+</dole-footer-item>
+<dole-footer-item title="Dole in Twitter" gtmId="" href="https://twitter.com/DoleTweets?s=17" target="_blank" role="listitem">
+<dole-icon size="lg" name="twitter-square">Twitter</dole-icon>
+</dole-footer-item>
+</dole-footer-column>
+<dole-footer-secondary slot="secondary">
+<h2 slot="title"></h2>
+<dole-footer-item href="/en/contact" target="" role="listitem">
+Contact
+</dole-footer-item>
+<dole-footer-item href="/en/about-us/privacy-policy" target="" role="listitem">
+Privacy Policy
+</dole-footer-item>
+<dole-footer-item role="listitem">
+&#169; 2022 All rights reserved.
+</dole-footer-item>
+</dole-footer-secondary>
+</dole-footer>
+<script type="text/javascript">
+  // Overrides `publicPath` on the fly when enabled.
+  window.DOLE_PUBLIC_PATH = '/static/Front/';
+</script>
+<script src="/static/front/runtime.15d60644f387b276b222.js" type="module"></script>
+<script src="/static/front/polyfills.b408deb16107c6b7f023.esm.js" type="module"></script>
+<script src="/static/front/main.b533a12d5a992684d503.esm.js" type="module"></script>
+<script src="/static/front/runtime.ba0c260bfa938e8c4afc.js" nomodule defer></script>
+<script src="/static/front/polyfills.d9b674c2f7bd67497cc0.es5.js" nomodule defer></script>
+<script src="/static/front/main.e280f03572a8768a3972.es5.js" nomodule defer></script>
+</body>
+</html>

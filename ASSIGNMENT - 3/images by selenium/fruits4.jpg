@@ -1,0 +1,341 @@
+ <!DOCTYPE html> <html lang="en"> <head> <script>
+        if (0 > 0) {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                'commerce-uid': ''
+            });
+        }
+    </script> <!-- Google Tag Manager --> <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N9PPV4G');</script> <!-- End Google Tag Manager --> <meta charset="utf-8"> <meta http-equiv="x-ua-compatible" content="ie=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>
+	Fruits
+</title> <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,800&display=swap" rel="stylesheet"> <link rel="stylesheet" type="text/css" href="/Content/css/toolkit.css?v=637788655290566193"> <link rel="stylesheet" type="text/css" href="/Content/css/ie.css?v=637788655290566193"> <link rel="shortcut icon" href="/content/images/favicon.ico" type="image/ico" /> <script src="//www.google.com/recaptcha/api.js" async defer></script> <script type="text/javascript">
+            var userIsAuthenticated = false;
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', '/site-api/account/getuserauthenticated');
+            xhr.send(null);
+            xhr.onreadystatechange = function () {
+                var DONE = 4; // readyState 4 means the request is done.
+                var OK = 200; // status 200 is a successful return.
+                if (xhr.readyState === DONE) {
+                    if (xhr.status === OK) {
+                        var result = JSON.parse(xhr.responseText);
+                        userIsAuthenticated = result.success;
+                        window.APIDEF.userIsAuthenticated = result.success;
+                        //if (userIsAuthenticated) {
+                        //    window.dataLayer = window.dataLayer || [];
+                        //    window.dataLayer.push({
+                        //        'commerce-uid2': result.responseText
+                        //    });
+                        //}          
+                        if (result.success) {
+                            document.getElementById("navAccountLi").classList.remove("u-hidden");
+                            document.getElementById("navAccountAnchorOne").classList.remove("u-hidden");
+                            document.getElementById("navAccountAnchorTwo").classList.remove("u-hidden");
+                            document.getElementById("navCartAuthed").classList.remove("u-hidden");
+                            document.getElementById("navCartUnauthedMobile").remove();
+
+                            document.getElementById("navLoginAnchor").classList.add("u-hidden");
+                            document.getElementById("navLoginLi").classList.add("u-hidden");
+                            document.getElementById("navCartUnauthed").classList.add("u-hidden");
+                        }
+                    } else {
+                        console.log('Error: ' + xhr.status); // An error occurred during the request.
+                    }
+                }
+            };
+
+		    window.APIDEF = {
+			    base: 'https://www.healthyeating.org',
+			    carts: '/site-api/carts',
+			    products: '/site-api/products',
+			    account: '/site-api/account',
+                accountValues: '/site-api/account/getcreatevalues',
+                accountPasswordReset: '/site-api/account/resetpassword',
+                accountGetUserAuthenticated: '/site-api/account/getuserauthenticated',
+                userIsAuthenticated: false
+		    }
+        </script> <script type="text/javascript">var sf_appPath='/';</script><meta property="og:title" content="Fruits" /><meta property="og:description" content="What are the benefits of fruit in a healthy eating pattern?" /><meta property="og:url" content="https://www.healthyeating.org/nutrition-topics/general/food-groups/fruits" /><meta property="og:image" content="https://www.healthyeating.org/images/default-source/home-0.0/nutrition-topics-2.0/general-nutrition-wellness/2-2-2-3foodgroups_fruits_detailfeature_thumb.jpg?sfvrsn=7abe71fe_4" /><meta name="Generator" content="Sitefinity 12.1.7128.0 PE" /><link rel="canonical" href="https://www.healthyeating.org/nutrition-topics/general/food-groups/fruits" /><meta name="description" content="What are the benefits of fruit in a healthy eating pattern?" /></head> <body data-sprites="/Content/images/sprites.svg"> <!-- Google Tag Manager (noscript) --> <noscript> <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N9PPV4G"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe> </noscript> <!-- End Google Tag Manager (noscript) --> <div class="ie-alert u-hidden" id="ie-11-error"> <div class="ie-11-overlay"> <div class=""> <div class="max-width-md u-padd-all-2x  u-txt-center u-bg-color-white u-pos-rel"> <button type="button" aria-label="Close this dialog window" class="ie-alert-close">
+                        &times;
+                    </button>
+                    Upgrade your browser - Unfortunately, this site has updated features that can't run on this version of Internet Explorer.
+                    <a href="https://www.microsoft.com/en-us/edge?ocid=SMCIEHub-Download" target="_blank">Download a free upgrade of Internet Explorer</a>.
+                </div> </div> </div> </div> <nav class="nav no-print" id="main-nav" aria-label="Main Navigation" role="navigation"> <div class="nav__wrap"> <div class="nav__top-mobile"> <button class="nav__hamburger" name="" id="main-menu-toggle" aria-label="Mobile navigation open and close"> <span></span> <span></span> <span></span> </button> <div class="nav__logo"> <a href="/"><img src="/content/images/logo--main.svg" alt="Dairy Council of California Logo, let's eat healthy" /></a> </div> <div class="nav__contrast"> <div class="contrast-toggle js-contrast-toggle"> <span class="u-vis-hidden">Toggle site contrast</span> <span class="u-color-dairy u-padd-right u-display-inline-block contast-toggle__txt" aria-hidden="true"> <strong>High Contrast</strong> </span> <button class="contrast-toggle__off active" data-toggle="off"><span>Off</span></button> <button class="contrast-toggle__on" data-toggle="on"><span>On</span></button> </div> </div> <div class="mobile-nav__utils"> <button class="button button--search " id="mobile-search-btn"> <span class="u-vis-hidden">Search</span> <svg class="icon" preserveAspectRatio="xMidYMid meet" role="img" viewBox="0 0 32 32" aria-label="Secondary Template icon"> <use xlink:href="#magnifying-glass" /> </svg> </button> <button id="navCartUnauthedMobile" title="Login" class="button button--cart cart" data-a11y-dialog-show="login-modal"> <span> <svg class="icon" preserveAspectRatio="xMidYMid meet" role="img" viewBox="0 0 32 32" aria-label="Home icon"> <use xlink:href="#shopping-cart" /> </svg> </span> </button> <button id="navCartAuthedMobile" class="button button--cart cart js-cart-toggle-btn"> <cart-button inline-template class="cart-button" v-cloak> <span :class="{'active': haveItemsInCart}"> <svg class="icon" preserveAspectRatio="xMidYMid meet" role="img" viewBox="0 0 32 32" aria-label="Home icon"> <use xlink:href="#shopping-cart" /> </svg> <span class="cart__cart-items">{{itemsInCart}}</span> </span> </cart-button> </button> </div> </div> <div class="nav__elements"> <div class="contrast-toggle js-contrast-toggle"> <span class="u-vis-hidden">Toggle site contrast</span> <span class="u-color-dairy u-padd-right u-display-inline-block contast-toggle__txt" aria-hidden="true"> <strong>High Contrast</strong> </span> <button class="contrast-toggle__off active" data-toggle="off">Off</button> <button class="contrast-toggle__on" data-toggle="on">On</button> </div> <nav role="navigation" aria-label="Main site navigation items"> <div> <!-- role="menubar" --> <ul class="menu" aria-label="Dairy Council of California Navigation"> <li class="menu__item menu__item--account"> <div id="navAccountLinksDiv" class="u-mrg-btm u-padd-top-2x u-padd-btm-2x u-flex@md u-flex--justify-btwn border-bottom border-color-gray-light"> <a id="navLoginAnchor" href="javascript:void(0);" data-a11y-dialog-show="login-modal"><strong>LOGIN</strong></a> <a id="navAccountAnchorOne" href="/login/my-account" class="u-hidden"><strong>MY ACCOUNT</strong></a> <a id="navAccountAnchorTwo" name="logoutAnchor" href="javascript:void(0);" class="u-txt-sm u-hidden logout-button">LOGOUT</a> </div> </li> <li class="menu__item menu__item--with-sub menu__item--products  menu__item--mobile" aria-haspopup="true"> <a href="/products-and-activities" class="sub-toggle">Products + Activities</a> <div class="submenu" id="submenu-0"> <ul class="submenu__main"> <li class="u-hidden@lg"> <a href="/products-and-activities" class="mobile-toggle"><strong>Products + Activities</strong></a> </li> <li class="submenu__item"><a href="/products-and-activities/curriculum">Curriculum</a></li> <li class="submenu__item"><a href="/products-and-activities/community-education">Community Education Materials</a></li> <li class="submenu__item"><a href="/products-and-activities/programs-services">Programs + Services</a></li> <li class="submenu__item"><a href="/products-and-activities/programs-services/farm-to-you/mobile-dairy-classroom">Mobile Dairy Classroom</a></li> <li class="submenu__item"><a href="/products-and-activities/games-activities">Games + Activities</a></li> </ul> <ul class="submenu__back u-hidden@lg"> <li class=""> <div class="u-padd-btm-2x u-padd-top-2x border-bottom border-color-gray-light "> <a href="javascript:void(0);" class="link--back" role="button" controls="submenu-2"> <span class="u-vis-hidden">Back to</span> <svg class="icon" preserveAspectRatio="xMidYMid meet" role="img" viewBox="0 0 32 32" aria-label="Home icon"> <use xlink:href="#icon-chevron-down" /> </svg> Main Menu
+                        </a> </div> </li> </ul> </div> </li> <li class="menu__item menu__item--with-sub  current menu__item--mobile" aria-haspopup="true"> <a href="/nutrition-topics" class="sub-toggle">Nutrition Topics</a> <div class="submenu" id="submenu-1"> <ul class="submenu__main"> <li class="u-hidden@lg submenu__top"> <a href="/nutrition-topics" class="mobile-toggle"><strong>Nutrition Topics</strong></a> </li> <li class="submenu__item"><a href="/nutrition-topics/milk-dairy">Milk + Dairy</a></li> <li class="submenu__item"><a href="/nutrition-topics/nutrition-science">Nutrition Science</a></li> <li class="submenu__item"><a href="/nutrition-topics/general">General Nutrition + Wellness</a></li> <li class="submenu__item"><a href="/nutrition-topics/meal-planning">Meal Planning + Ideas</a></li> </ul> <ul class="submenu__back u-hidden@lg"> <li class=""> <div class="u-padd-btm-2x u-padd-top-2x border-bottom border-color-gray-light "> <a href="javascript:void(0);" class="link--back" role="button" controls="submenu-2"> <span class="u-vis-hidden">Back to</span> <svg class="icon" preserveAspectRatio="xMidYMid meet" role="img" viewBox="0 0 32 32" aria-label="Home icon"> <use xlink:href="#icon-chevron-down" /> </svg> Main Menu
+                        </a> </div> </li> </ul> </div> </li> <li class="menu__item menu__item--with-sub   menu__item--mobile" aria-haspopup="true"> <a href="/our-cause" class="sub-toggle">Our Cause</a> <div class="submenu" id="submenu-2"> <ul class="submenu__main"> <li class="u-hidden@lg submenu__top"> <a href="/our-cause" class="mobile-toggle"><strong>Our Cause</strong></a> </li> <li class="submenu__item"><a href="/our-cause/about-us">About Us</a></li> <li class="submenu__item"><a href="/our-cause/join-the-movement">Join the Movement</a></li> <li class="submenu__item"><a href="/our-cause/nutrition-philosophy">Nutrition Philosophy</a></li> <li class="submenu__item"><a href="/our-cause/education-philosophy">Education Philosophy</a></li> <li class="submenu__item"><a href="/our-cause/staff">Our Staff</a></li> <li class="submenu__item"><a href="/careers">Our Careers</a></li> <li class="submenu__item"><a href="/our-cause/partners">Our Partners</a></li> </ul> <ul class="submenu__back u-hidden@lg"> <li class=""> <div class="u-padd-btm-2x u-padd-top-2x border-bottom border-color-gray-light "> <a href="javascript:void(0);" class="link--back" role="button" controls="submenu-2"> <span class="u-vis-hidden">Back to</span> <svg class="icon" preserveAspectRatio="xMidYMid meet" role="img" viewBox="0 0 32 32" aria-label="Home icon"> <use xlink:href="#icon-chevron-down" /> </svg> Main Menu
+                        </a> </div> </li> </ul> </div> </li> <li class="menu__item menu__item--mobile"><a href="/blog">Blog</a></li> <li class="menu__item menu__item--search" aria-haspopup="true"> <a href="javascript:void(0);" class="u-inline-block border-right border-color-gray-light  nav-search "> <span class="u-vis-hidden">Search</span> <svg class="icon" preserveAspectRatio="xMidYMid meet" role="img" viewBox="0 0 32 32" aria-label="search icon"> <use xlink:href="#magnifying-glass" /> </svg> </a> <div class="menu-search main-nav-search"> <div class="main-nav-search__text"> <label for="nav-search" class="u-hidden">Search Dairy Council of California</label> <input type="search" class="" id="nav-search" name="nav-search" placeholder="Search" /> </div> <div class="main-nav-search__action"> <a href="javascript:void(0);" class="nav-search-action" data-search-page="/search?searchterm="> <span class="u-vis-hidden">Search our site</span> <svg class="icon" preserveAspectRatio="xMidYMid meet" role="img" viewBox="0 0 32 32" aria-label="search icon"> <use xlink:href="#icon-arrow-right" /> </svg> </a> </div> </div> </li> <li id="navLoginLi" class="menu__item menu__item--login"> <a href="javascript:void(0);" data-a11y-dialog-show="login-modal" class="">LOGIN</a> </li> <li id="navAccountLi" class="menu__item menu__item--login menu__item--with-drop u-hidden"> <a href="/login/my-account">MY ACCOUNT</a> <div class="submenu" id="submenu-account"> <ul class="submenu__main"> <li class="submenu__item"><a href="javascript:void(0);" class="logout-button">LOGOUT</a></li> </ul> </div> </li> <li id="navCartUnauthed" class="menu__item menu__item--cart"> <div> <a href="javascript:void(0);"  data-a11y-dialog-show="login-modal">
+                                    CART <span> <svg class="icon" preserveAspectRatio="xMidYMid meet" role="img" viewBox="0 0 32 32" aria-label="Home icon"> <use xlink:href="#shopping-cart" /> </svg> </span> </a> </div> </li> <li id="navCartAuthed" class="menu__item menu__item--cart js-cart-toggle u-hidden"> <cart-button class="cart-button" inline-template v-cloak> <div> <a href="/cart">
+                                        CART <span :class="{'active': haveItemsInCart}"> <svg class="icon" preserveAspectRatio="xMidYMid meet" role="img" viewBox="0 0 32 32" aria-label="cart icon"> <use xlink:href="#shopping-cart" /> </svg> <span class="cart__cart-items">{{itemsInCart}}</span> </span> </a> </div> </cart-button> </li> </ul> </div> </nav> </div> </div> </nav> <div class="menu-search main-nav-search main-nav-search--mobile"> <div class="main-nav-search__text"> <label for="nav-search" class="u-hidden">Search Dairy Council of California</label> <input type="search" class="" id="nav-search-mobile" name="nav-search-mobile" placeholder="Search" /> </div> <div class="main-nav-search__action"> <a href="#" class="nav-search-action" data-search-page="/search?searchterm="> <span class="u-vis-hidden">Search our site</span> <svg class="icon" preserveAspectRatio="xMidYMid meet" role="img" viewBox="0 0 32 32" aria-label="Secondary Template icon"> <use xlink:href="#icon-arrow-right" /> </svg> </a> </div> </div> <input id="accountPageURL" name="accountPageURL" type="hidden" value="/login/my-account" /><div class="cart-preview" id="cart-preview-wrap"> <cart-preview id="cart-preview" :cart-id="''" inline-template> <div class="u-padd-all"> <a href="javascript:void(0)" role="button" aria-label="Close this dialog window" class="fe-modal-close z-2" @click="cartClose">
+                &times;
+            </a> <div class="" v-show="products.length > 0"> <div v-for="(product, index) in productsToPreview" :key="'p'+ index"> <div class="grid"> <div class="grid-item grid-item-w25"> <img v-if="product.thumbnailImageUrl" :src="product.thumbnailImageUrl" :alt="product.name" /> <span v-else="" class="u-color-gray-light u-txt-xs">No image available</span> </div> <div class="grid-item grid-item-w75"> <a :href="product.link" class="h-xs u-padd-btm-half"><strong>{{product.title}}</strong></a> <div class="u-txt-md">Print product</div> <div class="u-txt-md"><strong>Quantity: {{product.qty}}</strong></div> </div> </div> <hr class="hr u-mrg-btm u-mrg-top-half" /> </div> <div class="u-padd-top u-padd-btm"> <div class="u-flex u-flex--justify-btwn "> <div><strong>SUBTOTAL:</strong></div> <div><strong>{{subTotal}}</strong></div> </div> </div> <div class="u-padd-top u-txt-center"> <a href="/cart" class="btn btn--blue">
+                        Checkout
+                    </a> </div> </div> <div class="u-txt-center" v-show="products.length > 5"> <div class="u-color-black u-txt-sm"> <strong>
+                        And {{products.length - 5}} additional items, click
+                        <a href="/cart">here</a> to review your cart.
+                    </strong> </div> </div> <div class="u-txt-center" v-show="products.length === 0"> <div class="u-color-lavender"> <strong>Your cart is empty.</strong> </div> </div> </div> </cart-preview> </div> <main id="main"> 
+<div class="hero hero-tertiary ">
+    <div class="hero__clip-bg u-bg-color-fruit">
+        <!-- role and aria-label take place of <img and alt tag /> -->
+    </div>
+    <div class="hero__content">
+        <div class="hero__breadcrumb">
+        <a href="/">Home</a>
+            &nbsp;|&nbsp;
+        <a href="/nutrition-topics">Nutrition Topics</a>
+            &nbsp;|&nbsp;
+        <a href="/nutrition-topics/general">General Nutrition + Wellness</a>
+            &nbsp;|&nbsp;
+        <a href="/nutrition-topics/general/food-groups">Food Groups</a>
+            &nbsp;|&nbsp;
+        <a href="/nutrition-topics/general/food-groups/fruits">Fruits</a>
+</div>
+    </div>
+</div>
+
+ <section class="section section--padded"> 
+<div class="feat feat--detail">
+    <div class="max-width-md">
+        <h1 class="h-lg u-mrg-btm-2x">Fruits</h1>
+        <p>What are the benefits of fruit in a healthy eating pattern?</p>
+    </div>
+
+        <div class="feat__image  u-mrg-top-2x u-padd-top-half">
+            <img src="https://www.healthyeating.org/images/default-source/home-0.0/nutrition-topics-2.0/general-nutrition-wellness/2-2-2-3foodgroups_fruits_detailfeature.jpg?sfvrsn=64942d53_4" class="u-shadow-img" alt="Foods in the fruit food group offer a unique package of nutrients.">
+        </div>
+
+
+    <div class="u-flex u-flex--row u-flex--align-all-center u-padd-btm-half">
+        <ul class="list list--inline list--inline-pipe">
+
+
+
+
+
+</div>
+        <div class="u-flex u-flex--align-all-center">
+
+        </div>
+        <hr class="hr hr--mini hr--mini-l u-mrg-btm u-mrg-top">
+
+        
+        
+    </div><p>Fruits are a good source of vitamins and minerals, recognized for their role in preventing vitamin C and vitamin A deficiencies. People who incorporate fruits and vegetables as part of a healthy eating pattern have a reduced risk of some chronic diseases.&nbsp;<strong>USDA's MyPlate encourages filling half of the plate with fruits and vegetables at mealtimes.</strong></p>
+<p>Fruits are an important part of a healthy eating pattern and the source of many vital nutrients, including potassium, folate (folic acid), and antioxidants including polyphenols. Fruit such as blueberries, cranberries, strawberries&nbsp;and citrus also
+    contain phytochemicals that are being studied for their added health benefits.&nbsp;&nbsp;</p>
+<h3>How Many Servings of Fruit Are Recommended?&nbsp;</h3>
+<style>
+    table td {
+        display: table-cell;
+    }
+</style>
+<table>
+    <tbody>
+        <tr>
+            <td>Daily Recommendation</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>Age</td>
+            <td>No. of servings</td>
+        </tr>
+        <tr>
+            <td>Children</td>
+            <td>2&ndash;8 years</td>
+            <td>1&ndash;1.5 cups<br /></td>
+        </tr>
+        <tr>
+            <td>Girls</td>
+            <td>9&ndash;18 years<br /></td>
+            <td>1.5 cups</td>
+        </tr>
+        <tr>
+            <td>Boys</td>
+            <td>9&ndash;18 years<br /></td>
+            <td>1.5&ndash;2 cups<br /></td>
+        </tr>
+        <tr>
+            <td>Women</td>
+            <td>19&ndash;30 years<br /></td>
+            <td>2 cups</td>
+        </tr>
+        <tr>
+            <td>Women</td>
+            <td>31+ years</td>
+            <td>1.5 cups</td>
+        </tr>
+        <tr>
+            <td>Men</td>
+            <td>19+ years</td>
+            <td>2 cups</td>
+        </tr>
+    </tbody>
+</table>
+<p>Essential Nutrients in Fruit</p>
+<p>The nutrients in fruit are vital for overall health and maintenance of body systems. The benefits of these nutrients include:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<ul>
+    <li><strong>Reduced risk of chronic disease</strong>:&nbsp;Eating a diet rich in fruit may reduce risk for stroke, cardiovascular disease and type 2 diabetes.</li>
+    <li><strong>Improved heart health</strong>:&nbsp;The potassium in fruit can reduce the risk of heart disease and stroke. Potassium may also reduce the risk of developing kidney stones and help to decrease bone loss.</li>
+    <li><strong>Lower risk of neural tube defects</strong>:&nbsp;Folate (folic acid) helps the body form red blood cells. Women of childbearing age who may become pregnant and those in the first trimester of pregnancy need adequate folate. Folate helps prevent
+        neural tube birth defects such as spina bifida.&nbsp;</li>
+    <li><strong>Protection against cell damage</strong>:&nbsp;An eating pattern where fruit is&nbsp;part of an overall healthy diet provides antioxidants that help repair damage done by free radicals and may protect against certain cancers. It may also have
+        a positive impact on digestive health. Polyphenols are antioxidants&nbsp;that have been shown to alter gut microecology, or the proportion of healthy versus harmful bacteria.&nbsp;</li>
+</ul>
+<p>Find out more about the relationship of a healthy eating pattern and activity on overall health by visiting the&nbsp;<a target="_blank" href="/nutrition-topics/general/lifestyle/healthy-eating-planner">Healthy Eating</a>&nbsp;page.&nbsp;For online learning activities, check out the&nbsp;<a href="/products-and-activities/curriculum/online-learning">nutrition resources for online learning</a>&nbsp;page.</p>
+
+<div class="multimedia clipped-bottom bg-grey-fade">
+    <div class="u-mrg-center max-width-xl multimedia__content">
+        <!-- CMS optional u-flex--row-reverse (option to reverse the content on desktop) -->
+        <div class="grid grid--spc grid--spc--lg ">
+
+            <div class="grid-item grid-item-w66@md  grid-item-w50@md multimedia__image-wrap">
+                <div class="multimedia__image multimedia__image--video" style="background-image:url('https://www.healthyeating.org/images/default-source/home-0.0/youtube-thumbnails/aan_seasonalfruits-vegetales_youtubethumb_multimediavideo.jpg?sfvrsn=4ae565b1_4');">
+                    <!-- optional for CMS
+            data-modal-title="Request Information"
+            modal markup goes inline with the trigger "button"
+        -->
+                    <button aria-label="Why Buy Fruits and Vegetables in Season?" class="js-modal" data-a11y-dialog-show="video-modal--980678393">
+                        <img src="/content/images/play-transparent-large.png" alt="Watch here" />
+                    </button>
+                </div>
+            </div>
+            <div class="grid-item grid-item-w50@md multimedia__copy">
+                <div class="max-width-sm">
+                    <h3 class="h-lg">Why Buy Fruits and Vegetables in Season?</h3>
+                    <p>Maria Frye, RDN, explains how shopping for seasonal produce saves money + supports healthy eating.</p>
+                    <a href="javascript:void(0);" class="js-modal action" data-a11y-dialog-show="video-modal--980678393">
+                        <strong>Watch here</strong>
+                        <span>
+                            <svg class="icon" preserveAspectRatio="xMidYMid meet" role="img" viewBox="0 0 32 32" aria-label="Primary Template icon">
+                                <use xlink:href="#icon-arrow-right" />
+                            </svg>
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="dialog js-modal-window" id="video-modal--980678393" aria-hidden="true">
+	    <div tabindex="-1"  data-a11y-dialog-hide ></div>
+	    <div class="fe-modal-overlay"></div>
+	    <div aria-labelledby="dialog-title" role="alertdialog" class="dialog-content fe-modal" id="video-modal--980678393-content">
+	      <button type="button" data-a11y-dialog-hide  aria-label="Close this dialog window" class="fe-modal-close">
+	          &times;
+	      </button>
+	    <div class="u-mrg-top">
+	        <div class="video-embed">
+	            <iframe width="560" height="315" src="https://www.youtube.com/embed/4H9f_NdaPsc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	            </iframe>
+	        </div>    
+        </div>
+	</div>
+</div> <div class="dcc-rich"> 
+ </div> 
+ </section> 
+    <!-- DCC Module 17 / DCC-18 / PromoFooterCTA -->
+    <div class="bottom-promotion u-pos-rel u-bg-color-fruit clipped-top">
+        <div class="u-mrg-center u-pos-rel max-width-lg u-txt-center wrapper">
+                <div class="promotion-icon u-pos-abs z-1">
+                    <img src="https://www.healthyeating.org/images/default-source/icons/0-0home_promofootermulticta_icon.png?sfvrsn=c0fd4f29_8" alt="Icon of arrow pointing out a call to action. " />
+                </div>
+                <div class="u-padd-top-4x u-padd-btm u-color-white">
+                    <h3 class="h-lg u-mrg-btm max-width-sm-md u-mrg-center">Grains</h3>
+                    <div class="max-width-sm-md u-mrg-center">
+                        <p>Learn more about the next food group.</p>
+                    </div>
+                </div>
+            <div class="u-flex u-flex--row u-flex--wrap u-flex--justify-center max-width-sm-md u-mrg-center u-padd-btm-2x">
+                <a class="action u-color-white" href="/nutrition-topics/general/food-groups/grains" >
+                    <strong>Read more</strong> <svg class="icon" preserveAspectRatio="xMidYMid meet" role="img" viewBox="0 0 32 32" aria-label=" icon">
+                        <use xlink:href="#icon-arrow-right" />
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div>
+ <div id="login-modal" class="dialog js-modal-window" aria-hidden="true"> <div tabindex="-1" data-a11y-dialog-hide></div> <div class="fe-modal-overlay"></div> <div aria-labelledby="dialog-title" role="alertdialog" class="dialog-content fe-modal" id="login-modal-content"> <button type="button" data-a11y-dialog-hide aria-label="Close this dialog window" class="fe-modal-close">
+            &times;
+        </button> <login id="u-login-modal" inline-template v-cloak> <div class="grid "> <div class="grid-item grid-item-w50@lg"> <div class=" u-mrg-btm-2x u-padd-sides"> <h1 class="h-lg  u-mrg-btm-2x">Sign in</h1> <label for="UserName" class="u-display-block"> <strong>Email address</strong> </label> <input type="email"
+                               class="form-input"
+                               v-model="email"
+                               autocomplete="UserName"
+                               name="UserName"
+                               id="UserName"
+                               :class="{'error': submitted && (email === '')}" /> <div class="error u-hidden">
+                            *Are you sure you have an account with us?
+                        </div> <div class="error u-padd-btm-none" v-show="submitted && email === ''"> <strong>Please enter your email.</strong> </div> <label for="password" class="u-display-block u-mrg-top"> <strong>Password</strong> </label> <input type="password"
+                               name="password"
+                               id="password"
+                               class="form-input"
+                               v-model="password"
+                               :class="{'error': submitted && (password === '' || password.length < 8 || error !== '')}" /> <div class="error u-padd-btm-none" v-show="submitted && error !== ''"> <strong>{{error}}</strong> </div> <div class="u-mrg-btm u-mrg-top-half u-txt-sm"> <input type="checkbox"
+                                   name="remember"
+                                   id="remember"
+                                   v-model="remember" />
+                            Remember me
+                        </div> <div class="u-txt-center u-mrg-btm"> <a class="btn btn--blue" @click.prevent="userLogin"> Sign in </a> </div> <div class="u-txt-center u-txt-sm"> <strong><a href="javascript:void(0);" @click='forgotPassword'>Forgot your password?</a></strong> </div> </div> </div> <div class="grid-item grid-item-w50@lg u-flex u-flex--column u-flex--justify-center "> <hr class="hr u-mrg-center u-hidden@lg" /> <div class=" border-left@lg border-color-gray-light u-padd-sides u-padd-top-2x u-padd-btm-2x"> <div class=" u-mrg-center u-txt-center max-width-xs"> <h2 class="h-lg">New Nutrition Advocate?</h2> <p>Register a new account on HealthyEating.org to order nutrition resources, get the latest nutrition science or support healthy eating in your community.</p> <button class="btn btn--blue btn--wide" @click.prevent="createAccount">Register for account</button> </div> </div> </div> </div> </login> </div> </div> <div class="dialog js-modal-window" id="create-account-modal" aria-hidden="true"> <div tabindex="-1" data-a11y-dialog-hide></div> <div class="fe-modal-overlay"></div> <div aria-labelledby="dialog-title" role="alertdialog" class="dialog-content fe-modal" id="create-account-modal-content"> <button type="button" data-a11y-dialog-hide aria-label="Close this dialog window" class="fe-modal-close">
+            &times;
+        </button> <create-account id="create-account" inline-template v-cloak> <div class=" max-width-md u-mrg-center"> <div v-show="!isCreated"> <div class=" u-txt-center"> <h2 class="h-lg  u-mrg-btm-2x">Create account</h2> </div> <div class=""> <div class="grid"> <div class="grid-item grid-item-w50@md-lg  u-mrg-btm "> <label for="firstname" class="u-display-block"> <strong>First name</strong> </label> <input type="text"
+                                       name="firstname"
+                                       id="firstname"
+                                       class="form-input"
+                                       v-model="createFirstname" /> <div class="error u-padd-btm-none"
+                                     v-show="submitted && createFirstname === ''"> <strong>Please enter your name.</strong> </div> </div> <div class="grid-item grid-item-w50@md-lg  u-mrg-btm "> <label for="lastname" class="u-display-block"> <strong>Last name</strong> </label> <input type="text"
+                                       name="lastname"
+                                       id="lastname"
+                                       class="form-input"
+                                       v-model="createLastname" /> <div class="error u-padd-btm-none"
+                                     v-show="submitted && createLastname === ''"> <strong>Please enter your name.</strong> </div> </div> </div> </div> <div class="u-mrg-btm"> <label for="UserName2" class="u-display-block"> <strong>Email address</strong> </label> <input type="email"
+                               autocomplete="UserName"
+                               name="UserName2"
+                               id="UserName2"
+                               v-model="createEmail"
+                               class="form-input" /> <div class="error u-padd-btm-none"
+                             v-show="submitted && createEmail === ''"> <strong>Please enter your email.</strong> </div> <div class="error u-padd-btm-none"
+                             v-show="submitted && invalidEmail"> <strong>Please enter a valid email address.</strong> </div> </div> <div class="u-mrg-btm"> <label for="createProfileType"> <strong>Profile Type*</strong> </label> <div class="form-select"> <select id="createProfileType" name="createProfileType" class="form-select__select" v-model="createProfileType"> <option disabled value>Select a profile type</option> <option v-for="(profileType, index) in profileTypes" :key="'profileType_'+index" :value="profileType">
+                                    {{profileType}}
+                                </option> </select> </div> <div class="error u-padd-btm-none" v-show="submitted && createProfileType === ''"> <strong>Please make a selection.</strong> </div> </div> <div class="u-mrg-btm"> <label for="createState"> <strong>State*</strong> </label> <div class="form-select"> <select id="createState" name="createState" class="form-select__select " v-model="createState"> <option disabled value>Select a state</option> <option v-for="(state, index) in states" :key="'state_'+index" :value="state.name">
+                                    {{state.name}}
+                                </option> </select> </div> <div class="error u-padd-btm-none" v-show="submitted && createState === ''"> <strong>Please make a selection.</strong> </div> </div> <div v-if="createProfileType === 'Teacher' && createState === 'California'"> <div class="u-mrg-btm"> <label for="createCounty"> <strong>County*</strong> </label> <div class="form-select"> <select id="createDistrict" name="createDistrict" class="form-select__select" v-model="createCounty"> <option disabled value>Select a county</option> <option v-for="(county, index) in counties" :key="'county_'+index" :value="county.CountyName">{{county.CountyName}}</option> </select> </div> <div class="error u-padd-btm-none" v-show="submitted && createCounty === ''"> <strong>Please make a selection.</strong> </div> </div> <div class="u-mrg-bt-half"> <div class="grid"> <div class="grid-item grid-item-w50@md-lg"> <label for="createDistrict"> <strong>School District*</strong> </label> <div class="form-select"> <select id="createDistrict" name="createDistrict" class="form-select__select" v-model="createDistrict" :disabled="createCounty == ''"> <option value disabled>Select a School District</option> <option v-for="(district, index) in currentDistricts" :key="'district_'+index" :value="district.DistrictName">{{district.DistrictName}}</option> </select> </div> <div class="error u-padd-btm-none" v-show="submitted && createDistrict === ''"> <strong>Please make a selection.</strong> </div> </div> <div class="grid-item grid-item-w50@md-lg"> <label for="createSchool"> <strong>School Name*</strong> </label> <div class="form-select"> <select id="createSchool" name="createSchool" class="form-select__select" v-model="createSchool" :disabled="createDistrict == ''"> <option value disabled>Select a school</option> <option v-for="(school, index) in currentSchools" :key="'school_'+index" :value="school">{{school}}</option> </select> </div> <div class="error u-padd-btm-none" v-show="submitted && createSchool=== ''"> <strong>Please make a selection.</strong> </div> </div> </div> </div> </div> <div class="u-mrg-btm" v-if="createProfileType === 'Teacher' "> <label for="createGrade"> <strong>Grade*</strong> </label> <div class="form-select"> <select id="createProfileType" name="createProfileType" class="form-select__select" v-model="createGrade"> <option disabled value>Select a grade</option> <option v-for="(grade, index) in grades" :key="'grade_'+index" :value="grade">
+                                    {{grade}}
+                                </option> </select> </div> <div class="error u-padd-btm-none" v-show="submitted && createGrade === ''"> <strong>Please make a selection.</strong> </div> </div> <div class="u-mrg-btm" v-if="createProfileType === 'Healthcare Provider'"> <label for="create-title"> <strong>Title*</strong> </label> <input type="text"
+                               name="create-title"
+                               id="create-title"
+                               v-model="createTitle"
+                               class="form-input" /> <div class="error u-padd-btm-none" v-show="submitted && createTitle === ''"> <strong>Please enter your title.</strong> </div> </div> <div class="u-mrg-btm" v-if="createProfileType === 'Healthcare Provider'"> <label for="create-title"> <strong>Company Name*</strong> </label> <input type="text"
+                               name="create-title"
+                               id="create-title"
+                               v-model="createTitle"
+                               class="form-input" /> <div class="error u-padd-btm-none" v-show="submitted && createCompany === ''"> <strong>Please enter your company name.</strong> </div> </div> <div class="grid"> <div class="grid-item grid-item-w50@md-lg  u-mrg-btm "> <label for="createPassword" class="u-display-block"> <strong>Password</strong> </label> <input type="password"
+                                   name="create-password"
+                                   id="create-password"
+                                   v-model="createPassword"
+                                   class="form-input" /> <div class="error u-padd-btm-none" v-show="submitted && createPassword === ''"> <strong>Please enter a password.</strong> </div> <div class="error u-padd-btm-none" v-show="submitted && invalidPassword && createPassword !== ''"> <strong>Password is invalid. Passwords must be at least 8 characters.</strong> </div> </div> <div class="grid-item grid-item-w50@md-lg  u-mrg-btm "> <label for="createPasswordConfirm" class="u-display-block "> <strong>Confirm password*</strong> </label> <input type="password"
+                                   name="createPasswordConfirm"
+                                   id="createPasswordConfirm"
+                                   class="form-input"
+                                   v-model="createPasswordConfirm" /> <div class="error u-padd-btm-none" v-show="submitted && createPassword === ''"> <strong>Please enter a password.</strong> </div> <div class="error u-padd-btm-none" v-show="submitted && invalidPasswordConfirm && createPassword !== ''"> <strong>Confirm password is invalid. Passwords must be at least 8 characters.</strong> </div> </div> </div> <div v-show="passwordMismatch" class="error"> <strong>Passwords do not match</strong> </div> <div v-show="error !== ''" class="error"> <strong>{{error}}</strong> </div> <div class="max-width-xs"> <div class="u-mrg-btm u-mrg-top u-txt-sm"> <input type="checkbox"
+                                   name="create-accent-terms"
+                                   id="create-accept-terms"
+                                   v-model="createAcceptTerms" />
+                            I accept <a href="/terms-conditions"><strong>Terms and Conditions</strong></a> <div v-show="mustAccept" class="error u-mrg-top-half"> <strong>You must accept the Terms and Conditions.</strong> </div> </div> <div id="recaptcha" class="g-recaptcha" data-sitekey='6LfAHtoUAAAAAFtPUEPk2-aWcg4qgZShjz9RDoX-'></div> <div class="captcha-msg-error error"></div> <button class="btn btn--blue btn--wide u-mrg-top-2x u-display-block"
+                                @click.prevent='createAccount'>
+                            Register for account
+                        </button> </div> </div> <div v-show="isCreated" class="max-width-sm u-mrg-center u-txt-center"> <p>Thanks for creating an account. Please login.</p> <a href="javascript:void(0);" class="btn btn--blue btn--wide" @click="openLogin">Login</a> </div> </div> </create-account> </div> </div> <div class="dialog js-modal-window" id="forgot-password-modal" aria-hidden="true"> <div tabindex="-1" data-a11y-dialog-hide></div> <div class="fe-modal-overlay"></div> <div aria-labelledby="dialog-title" role="alertdialog" class="dialog-content fe-modal max-width-sm" id="forgot-password-modal-content"> <button type="button" data-a11y-dialog-hide aria-label="Close this dialog window" class="fe-modal-close">
+            &times;
+        </button> <div class=" max-width-md u-mrg-center"> <div class=" u-txt-center"> <h2 id="forgotPasswordH2" class="h-lg u-mrg-btm-2x">Forgot Password</h2> </div> </div> <div id="forgotEmailDiv" class="u-mrg-top max-width-xs u-mrg-center"> <label for="forgotEmail" class="u-display-block u-mrg-btm u-txt-center"> <strong>Please enter your email address</strong> </label> <input type="email"
+                   name="forgotEmail"
+                   id="forgotEmail"
+                   class="form-input" /> <div class="error u-hidden" id="forgotPasswordError"><strong>Unable to reset password for that email address. Please contact <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3d5e5250504853545e5c495452534e7d55585c51495544585c4954535a13524f5a">[email&#160;protected]</a> for support.</strong> </div> </div> <div id="forgotPasswordSubmitDiv" class=" max-width-md u-mrg-center u-mrg-top"> <input type="button" value="Reset My Password" id="forgotPasswordSubmit" class="btn btn--blue btn--wide u-display-block u-mrg-center"> </div> <div class="max-width-md u-mrg-center u-mrg-top"> <a id="forgotPasswordSignInButton" href="#" class="btn btn--blue u-display-block u-mrg-center u-hidden">Sign in</a> </div> </div> </div> <div id="vue-dialog-root"></div> </main> <footer class="footer"> <div class="u-bg-color-ocean u-padd-all@sm footer__wrap footer-nav"> <div> <nav class="footer-nav-main__wrap" aria-label="Additional site navigation" role="navigation"> <ul class="footer-nav-main"> <li class="footer-nav__logo--desktop"> <a href="#"> <img src="/content/images/dcc-logo--white.svg" alt="DCC logo" /> </a> </li> <li> <a href="/contact"> <strong>Contact Us</strong> </a>&nbsp;    </li> <li> <a href="/faq"> <strong>FAQs</strong> </a>&nbsp;    </li> <li> <a href="/careers"> <strong>Careers</strong> </a>&nbsp;    </li> <li class="footer-nav__logo--mobile"> <a href="#"> <img src="/content/images/dcc-logo--white.svg" alt="DCC logo" /> </a> </li> </ul> </nav> <div class="u-padd-top max-width-sm-md"> <p class="u-txt-sm-adapt">HealthyEating.org, brought to you by Dairy Council of California, is committed to elevating the health of children and families through the pursuit of lifelong healthy eating habits.</p> </div> </div> <div class="footer-nav__contact"> <ul class="footer-nav__social"> <li> <a href="https://www.facebook.com/HealthyEatingCA" target="_blank"> <svg class="icon" preserveaspectratio="xMidYMid meet" role="img" viewbox="0 0 32 32" aria-label="Facebook icon"> <use xlink:href="#facebook-letter-logo"></use> </svg> </a> </li> <li> <a href="https://twitter.com/healthyeating" target="_blank"> <svg class="icon" preserveaspectratio="xMidYMid meet" role="img" viewbox="0 0 32 32" aria-label="Twitter icon"> <use xlink:href="#twitter-logo"></use> </svg> </a> </li> <li> <a href="https://pinterest.com/healthyeatingca/" target="_blank"> <svg class="icon" preserveaspectratio="xMidYMid meet" role="img" viewbox="0 0 32 32" aria-label="Pinterest icon"> <use xlink:href="#pinterest-logo"></use> </svg> </a> </li> <li> <a href="https://www.instagram.com/healthyeatingca" target="_blank"> <svg class="icon" preserveaspectratio="xMidYMid meet" role="img" viewbox="0 0 32 32" aria-label="Instagram icon"> <use xlink:href="#instagram-logo"></use> </svg> </a> </li> <li> <a href="https://www.youtube.com/channel/UCWl7LiodvASkknswjs_HOhg" target="_blank"> <svg class="icon" preserveaspectratio="xMidYMid meet" role="img" viewbox="0 0 32 32" aria-label="Youtube icon"> <use xlink:href="#youtube-logo"></use> </svg> </a> </li> <li> <a href="https://www.linkedin.com/company/821194" target="_blank"> <svg class="icon" preserveaspectratio="xMidYMid meet" role="img" viewbox="0 0 32 32" aria-label="LinkedIn icon"> <use xlink:href="#linkedin"></use> </svg> </a> </li> <li> <a href="https://app.feedblitz.com/f/?Sub=877322"> <svg class="icon" preserveaspectratio="xMidYMid meet" role="img" viewbox="0 0 32 32" aria-label="RSS Newsletter icon"> <use xlink:href="#icon-rss"></use> </svg> </a> </li> </ul> <div class="u-padd-top u-txt-sm-adapt">
+California Residents: <a href="tel:8773247901" title="Call 8773247901 with 3CX Click to Call" tcxhref="tel:8773247901">877-324-7901</a><br />
+Non-California Residents: <a href="tel:8665721359" title="Call 8665721359 with 3CX Click to Call" tcxhref="tel:8665721359">866-572-1359</a> </div> </div> </div> <div class="u-padd-all@sm footer__copyright-legal"> <div>Copyright 2022 Dairy Council of California. All Rights Reserved.</div> <hr class="hr u-hidden@lg u-mrg-top u-mrg-btm " /> <nav class="footer__nav-legal" aria-label="Additional legal information and site navigation"> <ul> <li><a href="/terms-conditions">Terms &amp; Conditions</a></li> <li><a href="/privacy-policy">Privacy Policy</a></li> <li><a href="#">Sitemap</a></li> </ul> </nav> </div> </footer> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/bundles/frontend?v=OkCnhKeTxXqFJbgfHz7aZ-EhGkSnlZ5YqAhxM2mg9lA1"></script> <script src="/bundles/toolkit?v=WlbbqqrjjZyIYTPynSX3qLcYFFMYlfsT4DrwDHdmG4Y1"></script> <script src="/bundles/interior?v=m9eCqMkmVA5jJNtow04Tq_Wq1j14pG35fu48_g6w1Kg1"></script> <script src="/content/js/ie.js?v=637788655296660019"></script> <link rel="stylesheet" type="text/css" href="/Content/css/print.css?v=637788655290566193"> </body> </html>
